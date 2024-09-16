@@ -13,7 +13,7 @@ echo ============================================================
 echo Uploading to GitHub 
 echo ============================================================
 echo on
-git add . 
+git add .
 git commit -m "update lists"
-git push origin main
+git push 
 pause
