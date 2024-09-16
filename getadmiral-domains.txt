@@ -1,6 +1,6 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: rOBzTm0VXZfRo+QgWLCBRQ
-! Last modified: 2024-09-02 04:10 UTC
+! Checksum: yuElK0XmLGyzLOF+zYJY0w
+! Last modified: 2024-09-16 08:24 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -41,7 +41,6 @@
 127.0.0.1 abstractedamount.com
 127.0.0.1 abstractedauthority.com
 127.0.0.1 absurdapple.com
-127.0.0.1 acceptableauthority.com
 127.0.0.1 accountsdoor.com
 127.0.0.1 accurateanimal.com
 127.0.0.1 acidpigs.com
@@ -75,14 +74,16 @@
 127.0.0.1 amusedbucket.com
 127.0.0.1 ancientact.com
 127.0.0.1 annoyedairport.com
+127.0.0.1 annoyedfifth.com
 127.0.0.1 annoyingacoustics.com
 127.0.0.1 annoyingclover.com
 127.0.0.1 anxiousapples.com
+127.0.0.1 apparatuslip.com
 127.0.0.1 applesarmy.com
+127.0.0.1 aquaticalarm.com
 127.0.0.1 aquaticowl.com
 127.0.0.1 ar1nvz5.com
 127.0.0.1 archswimming.com
-127.0.0.1 argyresthia.com
 127.0.0.1 aromamirror.com
 127.0.0.1 arrivegrowth.com
 127.0.0.1 aspiringattempt.com
@@ -148,7 +149,6 @@
 127.0.0.1 broaddoor.com
 127.0.0.1 brotherslocket.com
 127.0.0.1 bruisebaseball.com
-127.0.0.1 btez8.xyz
 127.0.0.1 buildingknife.com
 127.0.0.1 bulbbait.com
 127.0.0.1 burlywhistle.com
@@ -163,7 +163,7 @@
 127.0.0.1 calculatorstatement.com
 127.0.0.1 callousbrake.com
 127.0.0.1 calmcactus.com
-127.0.0.1 capablecows.com
+127.0.0.1 calmcough.com
 127.0.0.1 capablecup.com
 127.0.0.1 capriciouscorn.com
 127.0.0.1 captainbicycle.com
@@ -202,7 +202,6 @@
 127.0.0.1 clearcomb.com
 127.0.0.1 cloisteredcurve.com
 127.0.0.1 closedcows.com
-127.0.0.1 clovercabbage.com
 127.0.0.1 coachquartz.com
 127.0.0.1 coatfood.com
 127.0.0.1 colorfulafterthought.com
@@ -213,6 +212,7 @@
 127.0.0.1 combbit.com
 127.0.0.1 combcattle.com
 127.0.0.1 comfortablecheese.com
+127.0.0.1 competitionbeetle.com
 127.0.0.1 conceptualizereading.com
 127.0.0.1 condemnedcomb.com
 127.0.0.1 conditionchange.com
@@ -271,6 +271,7 @@
 127.0.0.1 decisiveducks.com
 127.0.0.1 decoycreation.com
 127.0.0.1 deerbeginner.com
+127.0.0.1 defectivedress.com
 127.0.0.1 defensevest.com
 127.0.0.1 delegatediscussion.com
 127.0.0.1 deliciousducks.com
@@ -280,9 +281,9 @@
 127.0.0.1 desiredirt.com
 127.0.0.1 detailedglue.com
 127.0.0.1 detailedgovernment.com
+127.0.0.1 detailedkitten.com
 127.0.0.1 detectdinner.com
 127.0.0.1 detectdiscovery.com
-127.0.0.1 differentdesk.com
 127.0.0.1 difficultfog.com
 127.0.0.1 dinnerquartz.com
 127.0.0.1 diplomahawaii.com
@@ -302,6 +303,7 @@
 127.0.0.1 dripappliance.com
 127.0.0.1 drydrum.com
 127.0.0.1 dustydime.com
+127.0.0.1 dustywave.com
 127.0.0.1 ejyymghi.com
 127.0.0.1 elasticchange.com
 127.0.0.1 elderlyinsect.com
@@ -331,7 +333,6 @@
 127.0.0.1 exclusivebrass.com
 127.0.0.1 expansioneggnog.com
 127.0.0.1 exuberantedge.com
-127.0.0.1 exultantdrop.com
 127.0.0.1 facilitatebreakfast.com
 127.0.0.1 fadechildren.com
 127.0.0.1 fadedsnow.com
@@ -374,12 +375,12 @@
 127.0.0.1 fortunatemark.com
 127.0.0.1 fourfork.com
 127.0.0.1 frailfruit.com
-127.0.0.1 frailoffer.com
 127.0.0.1 frantictrail.com
 127.0.0.1 frightenedpotato.com
 127.0.0.1 frogator.com
 127.0.0.1 fronttoad.com
 127.0.0.1 fumblingform.com
+127.0.0.1 fumblingselection.com
 127.0.0.1 functionalcrown.com
 127.0.0.1 functionalfeather.com
 127.0.0.1 furryhorses.com
@@ -389,7 +390,6 @@
 127.0.0.1 fuzzybasketball.com
 127.0.0.1 fuzzyerror.com
 127.0.0.1 fvl1f.pw
-127.0.0.1 ga87z2o.com
 127.0.0.1 gammamaximum.com
 127.0.0.1 gaudyairplane.com
 127.0.0.1 generalprose.com
@@ -463,6 +463,7 @@
 127.0.0.1 illustriousoatmeal.com
 127.0.0.1 immensehoney.com
 127.0.0.1 imminentshake.com
+127.0.0.1 imperfectinstrument.com
 127.0.0.1 importantmeat.com
 127.0.0.1 importedincrease.com
 127.0.0.1 importedinsect.com
@@ -479,6 +480,7 @@
 127.0.0.1 inquisitiveinvention.com
 127.0.0.1 intelligentscissors.com
 127.0.0.1 interestdust.com
+127.0.0.1 interestsmoke.com
 127.0.0.1 internalsink.com
 127.0.0.1 inventtango.com
 127.0.0.1 irritatingfog.com
@@ -581,6 +583,7 @@
 127.0.0.1 overratedchalk.com
 127.0.0.1 owlsr.us
 127.0.0.1 pailcrime.com
+127.0.0.1 paintplantation.com
 127.0.0.1 paleleaf.com
 127.0.0.1 pamelarandom.com
 127.0.0.1 panickycurtain.com
@@ -590,6 +593,7 @@
 127.0.0.1 parentpicture.com
 127.0.0.1 parsimoniouspolice.com
 127.0.0.1 partplanes.com
+127.0.0.1 pastoralcorn.com
 127.0.0.1 pastoralroad.com
 127.0.0.1 peacefullimit.com
 127.0.0.1 pedromister.com
@@ -605,6 +609,7 @@
 127.0.0.1 piquantprice.com
 127.0.0.1 pizzasnut.com
 127.0.0.1 placidperson.com
+127.0.0.1 plainrequest.com
 127.0.0.1 planesorder.com
 127.0.0.1 plantrelation.com
 127.0.0.1 playfulriver.com
@@ -613,6 +618,7 @@
 127.0.0.1 plotrabbit.com
 127.0.0.1 pluckypocket.com
 127.0.0.1 pluckyzone.com
+127.0.0.1 pocketsonic.com
 127.0.0.1 pointdigestion.com
 127.0.0.1 pointlesshour.com
 127.0.0.1 pointlesspocket.com
@@ -622,6 +628,7 @@
 127.0.0.1 politeplanes.com
 127.0.0.1 possibleboats.com
 127.0.0.1 powderjourney.com
+127.0.0.1 powderprofit.com
 127.0.0.1 powerfulcopper.com
 127.0.0.1 preciousplanes.com
 127.0.0.1 prefixpatriot.com
@@ -629,8 +636,8 @@
 127.0.0.1 presetrabbits.com
 127.0.0.1 prettylearning.com
 127.0.0.1 previousplayground.com
-127.0.0.1 previouspotato.com
 127.0.0.1 pricklydebt.com
+127.0.0.1 pricklyplastic.com
 127.0.0.1 pricklypollution.com
 127.0.0.1 producecopy.com
 127.0.0.1 profitrumour.com
@@ -644,6 +651,7 @@
 127.0.0.1 pumpedpancake.com
 127.0.0.1 pumpedpurpose.com
 127.0.0.1 punyplant.com
+127.0.0.1 puzzlingproperty.com
 127.0.0.1 quacksquirrel.com
 127.0.0.1 quaintcan.com
 127.0.0.1 quantumlagoon.com
@@ -659,6 +667,7 @@
 127.0.0.1 rainydirt.com
 127.0.0.1 rainyhand.com
 127.0.0.1 rainyrule.com
+127.0.0.1 rambunctiousvoyage.com
 127.0.0.1 rangecake.com
 127.0.0.1 rangeplayground.com
 127.0.0.1 raresummer.com
@@ -711,7 +720,6 @@
 127.0.0.1 samplesamba.com
 127.0.0.1 sandstrophies.com
 127.0.0.1 satisfycork.com
-127.0.0.1 satisfyingshirt.com
 127.0.0.1 savoryorange.com
 127.0.0.1 scarceshock.com
 127.0.0.1 scarcesign.com
@@ -793,6 +801,7 @@
 127.0.0.1 somberscarecrow.com
 127.0.0.1 sombersea.com
 127.0.0.1 sombersquirrel.com
+127.0.0.1 somberstructure.com
 127.0.0.1 sombersurprise.com
 127.0.0.1 songsterritory.com
 127.0.0.1 sophisticatedstove.com
@@ -820,6 +829,7 @@
 127.0.0.1 spysubstance.com
 127.0.0.1 squeakzinc.com
 127.0.0.1 squealingturn.com
+127.0.0.1 squeamishspot.com
 127.0.0.1 squirrelhands.com
 127.0.0.1 stakingsmile.com
 127.0.0.1 staleshow.com
@@ -833,14 +843,13 @@
 127.0.0.1 stereoproxy.com
 127.0.0.1 stereotypedclub.com
 127.0.0.1 stereotypedsugar.com
+127.0.0.1 stickysheet.com
 127.0.0.1 stiffgame.com
 127.0.0.1 stiffstem.com
 127.0.0.1 stockingsneeze.com
 127.0.0.1 stormyachiever.com
 127.0.0.1 stormyfold.com
-127.0.0.1 stormysponge.com
 127.0.0.1 straightnest.com
-127.0.0.1 strangersponge.com
 127.0.0.1 strangesink.com
 127.0.0.1 streetsort.com
 127.0.0.1 stretchsister.com
@@ -848,6 +857,7 @@
 127.0.0.1 strivesidewalk.com
 127.0.0.1 stupendoussleet.com
 127.0.0.1 stupendoussnow.com
+127.0.0.1 subsequentsand.com
 127.0.0.1 subsequentswim.com
 127.0.0.1 substantialcarpenter.com
 127.0.0.1 succeedscene.com
@@ -859,6 +869,7 @@
 127.0.0.1 superficialeyes.com
 127.0.0.1 superficialspring.com
 127.0.0.1 superficialsquare.com
+127.0.0.1 sweetslope.com
 127.0.0.1 swellstocking.com
 127.0.0.1 swordgoose.com
 127.0.0.1 syllablesight.com
@@ -877,6 +888,7 @@
 127.0.0.1 teenytinytongue.com
 127.0.0.1 tempertrick.com
 127.0.0.1 tempttalk.com
+127.0.0.1 tendersugar.com
 127.0.0.1 tendertest.com
 127.0.0.1 terriblethumb.com
 127.0.0.1 texturetrick.com
