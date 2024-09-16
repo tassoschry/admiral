@@ -17,3 +17,5 @@ echo ============================================================
 git add .
 git commit -m "update lists"
 echo on
+pause
+cls
