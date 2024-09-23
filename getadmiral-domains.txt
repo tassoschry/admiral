@@ -1,6 +1,6 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: yuElK0XmLGyzLOF+zYJY0w
-! Last modified: 2024-09-16 08:24 UTC
+! Checksum: AGjXPLRcG0hwaQY+Iqg7DA
+! Last modified: 2024-09-23 08:25 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -898,6 +898,7 @@
 127.0.0.1 thirdrespect.com
 127.0.0.1 thirstytwig.com
 127.0.0.1 thomastorch.com
+127.0.0.1 thrivecover.com
 127.0.0.1 ticketaunt.com
 127.0.0.1 ticklesign.com
 127.0.0.1 tidytrail.com
