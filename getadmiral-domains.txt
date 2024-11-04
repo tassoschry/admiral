@@ -1,6 +1,6 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: g5Zy3+bultIKooGiwIPZ1g
-! Last modified: 2024-10-28 08:26 UTC
+! Checksum: e6Kk0wBlvPm4Ziq8CUN2PQ
+! Last modified: 2024-11-04 08:29 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -46,6 +46,7 @@
 127.0.0.1 acousticairplane.com
 127.0.0.1 acridangle.com
 127.0.0.1 acridtwist.com
+127.0.0.1 actoramusement.com
 127.0.0.1 actuallysheep.com
 127.0.0.1 actuallysnake.com
 127.0.0.1 adamantsnail.com
@@ -209,7 +210,6 @@
 127.0.0.1 comfortablecheese.com
 127.0.0.1 completecabbage.com
 127.0.0.1 complextoad.com
-127.0.0.1 conceptualizereading.com
 127.0.0.1 condemnedcomb.com
 127.0.0.1 conditionchange.com
 127.0.0.1 conditioncrush.com
@@ -776,7 +776,6 @@
 127.0.0.1 smashshoe.com
 127.0.0.1 smashsurprise.com
 127.0.0.1 smilingcattle.com
-127.0.0.1 smilingshake.com
 127.0.0.1 smilingwaves.com
 127.0.0.1 smoggysnakes.com
 127.0.0.1 smoggysongs.com
@@ -855,7 +854,6 @@
 127.0.0.1 suddensnake.com
 127.0.0.1 suddensoda.com
 127.0.0.1 sulkycook.com
-127.0.0.1 summerhamster.com
 127.0.0.1 summerobject.com
 127.0.0.1 superficialeyes.com
 127.0.0.1 superficialspring.com
@@ -945,6 +943,7 @@
 127.0.0.1 warmquiver.com
 127.0.0.1 warnwing.com
 127.0.0.1 wateryvan.com
+127.0.0.1 wearbasin.com
 127.0.0.1 wellgroomedhydrant.com
 127.0.0.1 wellmadefrog.com
 127.0.0.1 whineattempt.com
