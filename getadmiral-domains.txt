@@ -1,6 +1,6 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: tVyUv62w0/C+jLPvN4PJoA
-! Last modified: 2024-11-10 09:21 UTC
+! Checksum: bGHDk1xQeogwcqy1W/ny7A
+! Last modified: 2024-11-11 08:26 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -225,7 +225,6 @@
 127.0.0.1 copyrightaccesscontrols.com
 127.0.0.1 cosmosjackson.com
 127.0.0.1 courageousbaby.com
-127.0.0.1 coverapparatus.com
 127.0.0.1 crabbychin.com
 127.0.0.1 crafthenry.com
 127.0.0.1 cratecamera.com
@@ -369,7 +368,6 @@
 127.0.0.1 fortunatemark.com
 127.0.0.1 frailflock.com
 127.0.0.1 frailfruit.com
-127.0.0.1 frantictrail.com
 127.0.0.1 frightenedpotato.com
 127.0.0.1 frogator.com
 127.0.0.1 fronttoad.com
@@ -454,7 +452,6 @@
 127.0.0.1 hystericalcloth.com
 127.0.0.1 hystericalfinger.com
 127.0.0.1 i9w8p.pw
-127.0.0.1 icebergindigo.com
 127.0.0.1 illinvention.com
 127.0.0.1 illustriousoatmeal.com
 127.0.0.1 immensehoney.com
@@ -578,7 +575,6 @@
 127.0.0.1 pailcrime.com
 127.0.0.1 paleleaf.com
 127.0.0.1 pamelarandom.com
-127.0.0.1 panickycurtain.com
 127.0.0.1 panickypancake.com
 127.0.0.1 parallelbulb.com
 127.0.0.1 parchedsofa.com
@@ -669,7 +665,6 @@
 127.0.0.1 reconditerespect.com
 127.0.0.1 reflectivereward.com
 127.0.0.1 reflectivestatement.com
-127.0.0.1 regexmail.com
 127.0.0.1 regularplants.com
 127.0.0.1 relationrest.com
 127.0.0.1 repeatsweater.com
@@ -865,7 +860,6 @@
 127.0.0.1 swordgoose.com
 127.0.0.1 syllablesight.com
 127.0.0.1 symbolizebeast.com
-127.0.0.1 synonymousrule.com
 127.0.0.1 synthesizescarecrow.com
 127.0.0.1 systemizecoat.com
 127.0.0.1 tangibleteam.com
