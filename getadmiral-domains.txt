@@ -1,6 +1,6 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: bGHDk1xQeogwcqy1W/ny7A
-! Last modified: 2024-11-11 08:26 UTC
+! Checksum: jcR6jXF14feFwmJZrl9wqw
+! Last modified: 2024-11-18 08:29 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -211,6 +211,7 @@
 127.0.0.1 comfortablecheese.com
 127.0.0.1 completecabbage.com
 127.0.0.1 complextoad.com
+127.0.0.1 conceptualizereading.com
 127.0.0.1 condemnedcomb.com
 127.0.0.1 conditionchange.com
 127.0.0.1 conditioncrush.com
@@ -273,7 +274,6 @@
 127.0.0.1 delightfulhour.com
 127.0.0.1 desirebucket.com
 127.0.0.1 desiredirt.com
-127.0.0.1 detailedglue.com
 127.0.0.1 detailedgovernment.com
 127.0.0.1 detectdinner.com
 127.0.0.1 detectdiscovery.com
