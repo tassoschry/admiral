@@ -1,6 +1,6 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: uzdrQHb2oFcGSt4d+p5nAw
-! Last modified: 2025-05-05 08:21 UTC
+! Checksum: 57iu0Nv21+klB/fPXLfpjw
+! Last modified: 2025-05-12 08:21 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -53,6 +53,7 @@
 127.0.0.1 agreeablearch.com
 127.0.0.1 agreeabletouch.com
 127.0.0.1 aheadday.com
+127.0.0.1 aheadgrow.com
 127.0.0.1 ak0gsh40.com
 127.0.0.1 alikeaddition.com
 127.0.0.1 aliveachiever.com
@@ -80,6 +81,7 @@
 127.0.0.1 arrivegrowth.com
 127.0.0.1 aspiringattempt.com
 127.0.0.1 astonishingfood.com
+127.0.0.1 astralhustle.com
 127.0.0.1 attractivecap.com
 127.0.0.1 audioarctic.com
 127.0.0.1 automaticside.com
@@ -112,6 +114,7 @@
 127.0.0.1 billowybead.com
 127.0.0.1 bleachbubble.com
 127.0.0.1 bleachscarecrow.com
+127.0.0.1 blotburn.com
 127.0.0.1 blushingbeast.com
 127.0.0.1 boatsvest.com
 127.0.0.1 boilingbeetle.com
@@ -266,7 +269,9 @@
 127.0.0.1 dq95d35.com
 127.0.0.1 dragzebra.com
 127.0.0.1 dramaticdirection.com
+127.0.0.1 drawservant.com
 127.0.0.1 dustydime.com
+127.0.0.1 echochief.com
 127.0.0.1 effulgenttempest.com
 127.0.0.1 elasticchange.com
 127.0.0.1 elderlytown.com
@@ -332,6 +337,7 @@
 127.0.0.1 forgetfulsnail.com
 127.0.0.1 fortunatemark.com
 127.0.0.1 frailfruit.com
+127.0.0.1 frogator.com
 127.0.0.1 fronttoad.com
 127.0.0.1 fumblingform.com
 127.0.0.1 functionalcrown.com
@@ -366,6 +372,7 @@
 127.0.0.1 gracefulmilk.com
 127.0.0.1 grainmass.com
 127.0.0.1 granlite.com
+127.0.0.1 gravitygive.com
 127.0.0.1 grayoranges.com
 127.0.0.1 grayreceipt.com
 127.0.0.1 greasegarden.com
@@ -388,6 +395,7 @@
 127.0.0.1 handsomeindustry.com
 127.0.0.1 handsomelythumb.com
 127.0.0.1 handsomeyam.com
+127.0.0.1 handyfield.com
 127.0.0.1 handyfireman.com
 127.0.0.1 harborcub.com
 127.0.0.1 hatefulrequest.com
@@ -464,6 +472,7 @@
 127.0.0.1 lumpylumber.com
 127.0.0.1 lyricshook.com
 127.0.0.1 maddeningpowder.com
+127.0.0.1 markedcrayon.com
 127.0.0.1 markedmeasure.com
 127.0.0.1 marketspiders.com
 127.0.0.1 marriedmailbox.com
@@ -513,6 +522,7 @@
 127.0.0.1 nondescriptstocking.com
 127.0.0.1 nostalgicknot.com
 127.0.0.1 nostalgicneed.com
+127.0.0.1 nothingmethod.com
 127.0.0.1 notifyglass.com
 127.0.0.1 nullnorth.com
 127.0.0.1 oafishobservation.com
@@ -522,6 +532,7 @@
 127.0.0.1 operationchicken.com
 127.0.0.1 oppositeoperation.com
 127.0.0.1 optimallimit.com
+127.0.0.1 outsidevibe.com
 127.0.0.1 overconfidentfood.com
 127.0.0.1 overratedchalk.com
 127.0.0.1 owlsr.us
@@ -575,8 +586,10 @@
 127.0.0.1 pricklydebt.com
 127.0.0.1 pricklypollution.com
 127.0.0.1 producecopy.com
+127.0.0.1 productivepear.com
 127.0.0.1 profitrumour.com
 127.0.0.1 profusesupport.com
+127.0.0.1 proofconvert.com
 127.0.0.1 propertypotato.com
 127.0.0.1 psychedelicarithmetic.com
 127.0.0.1 puffyloss.com
@@ -648,6 +661,7 @@
 127.0.0.1 rusticprice.com
 127.0.0.1 ruthlessdegree.com
 127.0.0.1 sableshelf.com
+127.0.0.1 sablesmile.com
 127.0.0.1 sablesong.com
 127.0.0.1 sadloaf.com
 127.0.0.1 samesticks.com
@@ -656,6 +670,7 @@
 127.0.0.1 sandstrophies.com
 127.0.0.1 satisfycork.com
 127.0.0.1 savoryorange.com
+127.0.0.1 savorystructure.com
 127.0.0.1 scarceshock.com
 127.0.0.1 scarcesign.com
 127.0.0.1 scarcestream.com
@@ -705,6 +720,7 @@
 127.0.0.1 shiverscissors.com
 127.0.0.1 shockinggrass.com
 127.0.0.1 shockingship.com
+127.0.0.1 showsteel.com
 127.0.0.1 shrillspoon.com
 127.0.0.1 shydinosaurs.com
 127.0.0.1 sicksmash.com
@@ -719,6 +735,7 @@
 127.0.0.1 sincerepelican.com
 127.0.0.1 sinceresubstance.com
 127.0.0.1 singroot.com
+127.0.0.1 sittingpets.com
 127.0.0.1 sixauthority.com
 127.0.0.1 sixscissors.com
 127.0.0.1 skillfuldrop.com
@@ -802,10 +819,12 @@
 127.0.0.1 synthesizescarecrow.com
 127.0.0.1 tangibleteam.com
 127.0.0.1 tangyamount.com
+127.0.0.1 tarttendency.com
 127.0.0.1 tastelesstrees.com
 127.0.0.1 tastesnake.com
 127.0.0.1 tawdryson.com
 127.0.0.1 tdzvm.pw
+127.0.0.1 teacupbooks.com
 127.0.0.1 tedioustooth.com
 127.0.0.1 teenytinycellar.com
 127.0.0.1 teenytinyshirt.com
@@ -840,6 +859,7 @@
 127.0.0.1 tritebadge.com
 127.0.0.1 tritetongue.com
 127.0.0.1 truckstomatoes.com
+127.0.0.1 tumblebirds.com
 127.0.0.1 twistloss.com
 127.0.0.1 twistsweater.com
 127.0.0.1 typicalairplane.com
@@ -865,6 +885,7 @@
 127.0.0.1 venusgloria.com
 127.0.0.1 verdantanswer.com
 127.0.0.1 verseballs.com
+127.0.0.1 virgoplato.com
 127.0.0.1 virtualvincent.com
 127.0.0.1 voraciousgrip.com
 127.0.0.1 vq1qi.pw
