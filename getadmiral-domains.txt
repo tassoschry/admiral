@@ -1,6 +1,6 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: aOA1mSITqL3KBCaL9roxoA
-! Last modified: 2025-07-14 08:27 UTC
+! Checksum: 6m3CVwkhFnaEHHKv5Y4lKQ
+! Last modified: 2025-07-21 08:26 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -57,7 +57,6 @@
 127.0.0.1 admiral.support
 127.0.0.1 admiral.website
 127.0.0.1 admiralcdn.com
-127.0.0.1 admiralcdnstaging.com
 127.0.0.1 admlcdn.com
 127.0.0.1 adorableanger.com
 127.0.0.1 adorableattention.com
@@ -353,7 +352,6 @@
 127.0.0.1 cozyhillside.com
 127.0.0.1 cozytryst.com
 127.0.0.1 crabbychin.com
-127.0.0.1 crackedsafe.com
 127.0.0.1 crafthenry.com
 127.0.0.1 crashchance.com
 127.0.0.1 cratecamera.com
@@ -440,6 +438,7 @@
 127.0.0.1 digithalo.com
 127.0.0.1 dinnerquartz.com
 127.0.0.1 direfuldesk.com
+127.0.0.1 disagreeabledrop.com
 127.0.0.1 discreetfield.com
 127.0.0.1 discreetquarter.com
 127.0.0.1 distributionneck.com
@@ -535,6 +534,7 @@
 127.0.0.1 extramonies.com
 127.0.0.1 exuberantedge.com
 127.0.0.1 fabcharting.com
+127.0.0.1 fabledsoul.com
 127.0.0.1 facilitatebreakfast.com
 127.0.0.1 fadedsnow.com
 127.0.0.1 fairfeeling.com
@@ -619,8 +619,6 @@
 127.0.0.1 friedone.com
 127.0.0.1 friendlycrayon.com
 127.0.0.1 friendlyfold.com
-127.0.0.1 frogator.com
-127.0.0.1 frogtray.com
 127.0.0.1 fronttoad.com
 127.0.0.1 frugalfiestas.com
 127.0.0.1 fuelreaction.com
@@ -775,7 +773,6 @@
 127.0.0.1 incompetentjoke.com
 127.0.0.1 inconclusiveaction.com
 127.0.0.1 infamousstream.com
-127.0.0.1 innatecomb.com
 127.0.0.1 innocentlamp.com
 127.0.0.1 inputicicle.com
 127.0.0.1 inquisitiveice.com
@@ -1195,6 +1192,7 @@
 127.0.0.1 reconditerespect.com
 127.0.0.1 redbricksoap.com
 127.0.0.1 reflectpaint.com
+127.0.0.1 refundradar.com
 127.0.0.1 regexmail.com
 127.0.0.1 regularplants.com
 127.0.0.1 regulatesleet.com
@@ -1207,7 +1205,6 @@
 127.0.0.1 rentinfinity.com
 127.0.0.1 repeatsweater.com
 127.0.0.1 replaceroute.com
-127.0.0.1 repulsiverequest.com
 127.0.0.1 resonantbrush.com
 127.0.0.1 resonantrock.com
 127.0.0.1 respectrain.com
@@ -1360,12 +1357,14 @@
 127.0.0.1 sillyscrew.com
 127.0.0.1 simplenaming.com
 127.0.0.1 simplesidewalk.com
+127.0.0.1 simplisticnose.com
 127.0.0.1 simulateswing.com
 127.0.0.1 sincerebuffalo.com
 127.0.0.1 sincerepelican.com
 127.0.0.1 sinceresubstance.com
 127.0.0.1 singroot.com
 127.0.0.1 sinkportal.com
+127.0.0.1 sittingpets.com
 127.0.0.1 sixauthority.com
 127.0.0.1 sixscissors.com
 127.0.0.1 sizzlingsmoke.com
@@ -1624,7 +1623,6 @@
 127.0.0.1 tracecontent.com
 127.0.0.1 traderbyte.com
 127.0.0.1 tradetooth.com
-127.0.0.1 trafficviews.com
 127.0.0.1 tranquilcan.com
 127.0.0.1 tranquilcanyon.com
 127.0.0.1 tranquilplume.com
@@ -1660,6 +1658,7 @@
 127.0.0.1 unbecominghall.com
 127.0.0.1 unbecominglamp.com
 127.0.0.1 uncoveredexpert.com
+127.0.0.1 understoodocean.com
 127.0.0.1 unequalbrake.com
 127.0.0.1 unequaltrail.com
 127.0.0.1 unicontainers.com
@@ -1694,9 +1693,12 @@
 127.0.0.1 verseballs.com
 127.0.0.1 vibrantcelebration.com
 127.0.0.1 vibrantgale.com
+127.0.0.1 vibranthaven.com
 127.0.0.1 vibrantpact.com
 127.0.0.1 vibrantskyline.com
 127.0.0.1 vibrantsundown.com
+127.0.0.1 vibranttalisman.com
+127.0.0.1 vibrantvale.com
 127.0.0.1 victoriousrequest.com
 127.0.0.1 victoryideas.com
 127.0.0.1 virtualvincent.com
