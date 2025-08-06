@@ -1,6 +1,6 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: v4xnUi7CcyH+B70rmTKJ9w
-! Last modified: 2025-07-28 18:07 UTC
+! Checksum: ufMAMuu0dnb/K2Nkbo0oog
+! Last modified: 2025-08-04 21:18 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -140,6 +140,7 @@
 127.0.0.1 basketballbelieve.com
 127.0.0.1 baskettexture.com
 127.0.0.1 bawdybalance.com
+127.0.0.1 bawdybeast.com
 127.0.0.1 beamincrease.com
 127.0.0.1 beamvolcano.com
 127.0.0.1 beancontrol.com
@@ -205,6 +206,7 @@
 127.0.0.1 briskstorm.com
 127.0.0.1 broadborder.com
 127.0.0.1 broadcastbed.com
+127.0.0.1 broaddoor.com
 127.0.0.1 brotherslocket.com
 127.0.0.1 brownboxgroup.com
 127.0.0.1 bruisebaseball.com
@@ -368,6 +370,7 @@
 127.0.0.1 crowdedmass.com
 127.0.0.1 cruisetourist.com
 127.0.0.1 crunchcontrol.com
+127.0.0.1 cryptvalue.com
 127.0.0.1 crystalboulevard.com
 127.0.0.1 cubchannel.com
 127.0.0.1 cubepins.com
@@ -395,10 +398,10 @@
 127.0.0.1 damageddistance.com
 127.0.0.1 damdoor.com
 127.0.0.1 dampdock.com
-127.0.0.1 dancemistake.com
 127.0.0.1 dandydune.com
 127.0.0.1 dandyglow.com
 127.0.0.1 dapperdiscussion.com
+127.0.0.1 dashingdirt.com
 127.0.0.1 dashingdrop.com
 127.0.0.1 daymodern.com
 127.0.0.1 dazzlingbook.com
@@ -409,7 +412,6 @@
 127.0.0.1 decisivedrawer.com
 127.0.0.1 decklibrary.com
 127.0.0.1 decoroustitle.com
-127.0.0.1 decoycreation.com
 127.0.0.1 deeptack.com
 127.0.0.1 deerbeginner.com
 127.0.0.1 defeatedbadge.com
@@ -481,7 +483,6 @@
 127.0.0.1 elderlybean.com
 127.0.0.1 elderlytown.com
 127.0.0.1 elegantboulevard.com
-127.0.0.1 elephantqueue.com
 127.0.0.1 eloquenceeye.com
 127.0.0.1 elusivebreeze.com
 127.0.0.1 elusivecascade.com
@@ -763,11 +764,13 @@
 127.0.0.1 inconclusiveaction.com
 127.0.0.1 infamousstream.com
 127.0.0.1 innocentlamp.com
+127.0.0.1 innocentwax.com
 127.0.0.1 inputicicle.com
 127.0.0.1 inquisitiveice.com
 127.0.0.1 inquisitiveinvention.com
 127.0.0.1 insulatech.com
 127.0.0.1 intelligentscissors.com
+127.0.0.1 intentlens.com
 127.0.0.1 internalcondition.com
 127.0.0.1 internalsink.com
 127.0.0.1 inventtango.com
@@ -796,6 +799,7 @@
 127.0.0.1 jubilantwhisper.com
 127.0.0.1 juicebard.com
 127.0.0.1 juiceblocks.com
+127.0.0.1 justconfig.com
 127.0.0.1 justicejudo.com
 127.0.0.1 justpickaname.com
 127.0.0.1 justwebcards.com
@@ -805,6 +809,7 @@
 127.0.0.1 kitetuning.com
 127.0.0.1 knifetreasury.com
 127.0.0.1 knitstamp.com
+127.0.0.1 knotkettle.com
 127.0.0.1 knottysticks.com
 127.0.0.1 knottyswing.com
 127.0.0.1 laboredlocket.com
@@ -875,6 +880,7 @@
 127.0.0.1 mapbasin.com
 127.0.0.1 mapcommand.com
 127.0.0.1 marblediscussion.com
+127.0.0.1 markahouse.com
 127.0.0.1 markedcrayon.com
 127.0.0.1 markedmeasure.com
 127.0.0.1 marketspiders.com
@@ -937,6 +943,7 @@
 127.0.0.1 morefriendly.com
 127.0.0.1 mostdishy.com
 127.0.0.1 motionflowers.com
+127.0.0.1 motionlessbag.com
 127.0.0.1 motionlessbelief.com
 127.0.0.1 motionlessmeeting.com
 127.0.0.1 movemeal.com
@@ -1077,6 +1084,7 @@
 127.0.0.1 poemprompt.com
 127.0.0.1 poeticpackage.com
 127.0.0.1 pointdigestion.com
+127.0.0.1 pointlesshour.com
 127.0.0.1 pointlesspocket.com
 127.0.0.1 pointlessprofit.com
 127.0.0.1 poisedfuel.com
@@ -1164,6 +1172,7 @@
 127.0.0.1 raresummer.com
 127.0.0.1 razzweb.com
 127.0.0.1 reactjspdf.com
+127.0.0.1 readgoldfish.com
 127.0.0.1 readingguilt.com
 127.0.0.1 readymoon.com
 127.0.0.1 readysetcard.com
@@ -1598,6 +1607,7 @@
 127.0.0.1 tidymitten.com
 127.0.0.1 tidytrail.com
 127.0.0.1 tightpowder.com
+127.0.0.1 timeterritory.com
 127.0.0.1 tinyswans.com
 127.0.0.1 tinytendency.com
 127.0.0.1 tiredthroat.com
@@ -1658,6 +1668,7 @@
 127.0.0.1 unitedscans.com
 127.0.0.1 unknowncrate.com
 127.0.0.1 unknownidea.com
+127.0.0.1 unknowntray.com
 127.0.0.1 unloadyourself.com
 127.0.0.1 untidyrice.com
 127.0.0.1 unusedquestion.com
