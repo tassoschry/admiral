@@ -1,6 +1,6 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: ufMAMuu0dnb/K2Nkbo0oog
-! Last modified: 2025-08-04 21:18 UTC
+! Checksum: MrhWyl2PYd4NcZUp4HUoPA
+! Last modified: 2025-08-25 08:30 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -32,6 +32,7 @@
 127.0.0.1 abjectattempt.com
 127.0.0.1 aboardamusement.com
 127.0.0.1 aboardlevel.com
+127.0.0.1 abovechat.com
 127.0.0.1 abruptroad.com
 127.0.0.1 absentairport.com
 127.0.0.1 absorbingband.com
@@ -45,7 +46,6 @@
 127.0.0.1 accuratecoal.com
 127.0.0.1 acidicstraw.com
 127.0.0.1 acidpigs.com
-127.0.0.1 acousticairplane.com
 127.0.0.1 acridtwist.com
 127.0.0.1 actuallysheep.com
 127.0.0.1 actuallysnake.com
@@ -56,7 +56,6 @@
 127.0.0.1 admiral.support
 127.0.0.1 admiral.website
 127.0.0.1 admiralcdn.com
-127.0.0.1 admiralexternal.com
 127.0.0.1 admlcdn.com
 127.0.0.1 adorableanger.com
 127.0.0.1 adorableattention.com
@@ -230,6 +229,7 @@
 127.0.0.1 cakesdrum.com
 127.0.0.1 calculatingchannel.com
 127.0.0.1 calculatingcircle.com
+127.0.0.1 calculatingtoothbrush.com
 127.0.0.1 calculatorstatement.com
 127.0.0.1 callousbrake.com
 127.0.0.1 calmcactus.com
@@ -248,6 +248,7 @@
 127.0.0.1 caringcast.com
 127.0.0.1 carloforward.com
 127.0.0.1 carpentercomparison.com
+127.0.0.1 carscannon.com
 127.0.0.1 cartelsalsa.com
 127.0.0.1 cartkitten.com
 127.0.0.1 carvecakes.com
@@ -401,7 +402,6 @@
 127.0.0.1 dandydune.com
 127.0.0.1 dandyglow.com
 127.0.0.1 dapperdiscussion.com
-127.0.0.1 dashingdirt.com
 127.0.0.1 dashingdrop.com
 127.0.0.1 daymodern.com
 127.0.0.1 dazzlingbook.com
@@ -427,6 +427,7 @@
 127.0.0.1 designsgrid.com
 127.0.0.1 desirebucket.com
 127.0.0.1 desiredirt.com
+127.0.0.1 detailedglue.com
 127.0.0.1 detailedgovernment.com
 127.0.0.1 detailedkitten.com
 127.0.0.1 detectdinner.com
@@ -442,7 +443,6 @@
 127.0.0.1 disagreeabledrop.com
 127.0.0.1 discreetfield.com
 127.0.0.1 discreetquarter.com
-127.0.0.1 distributionneck.com
 127.0.0.1 distributionpocket.com
 127.0.0.1 distributiontomatoes.com
 127.0.0.1 disturbedquiet.com
@@ -471,6 +471,7 @@
 127.0.0.1 earnbaht.com
 127.0.0.1 earthups.com
 127.0.0.1 eatablesquare.com
+127.0.0.1 echochief.com
 127.0.0.1 echoinghaven.com
 127.0.0.1 echotop.com
 127.0.0.1 educrated.com
@@ -487,6 +488,7 @@
 127.0.0.1 elusivebreeze.com
 127.0.0.1 elusivecascade.com
 127.0.0.1 embellishedmeadow.com
+127.0.0.1 embermosaic.com
 127.0.0.1 emberwhisper.com
 127.0.0.1 eminentbubble.com
 127.0.0.1 eminentend.com
@@ -517,6 +519,7 @@
 127.0.0.1 etherealbamboo.com
 127.0.0.1 ethereallagoon.com
 127.0.0.1 etherealpinnacle.com
+127.0.0.1 etherealripple.com
 127.0.0.1 evanescentedge.com
 127.0.0.1 evasivejar.com
 127.0.0.1 eventexistence.com
@@ -526,6 +529,7 @@
 127.0.0.1 executeknowledge.com
 127.0.0.1 exhibitsneeze.com
 127.0.0.1 expansioneggnog.com
+127.0.0.1 experienceeggs.com
 127.0.0.1 exquisiteartisanship.com
 127.0.0.1 extractobservation.com
 127.0.0.1 extralocker.com
@@ -717,7 +721,6 @@
 127.0.0.1 headydegree.com
 127.0.0.1 headyhook.com
 127.0.0.1 healflowers.com
-127.0.0.1 hearinglizards.com
 127.0.0.1 heartbreakingmind.com
 127.0.0.1 hearthorn.com
 127.0.0.1 heavydetail.com
@@ -839,7 +842,6 @@
 127.0.0.1 limepeal.com
 127.0.0.1 livelumber.com
 127.0.0.1 livelylaugh.com
-127.0.0.1 livelyreward.com
 127.0.0.1 livingsleet.com
 127.0.0.1 lizardslaugh.com
 127.0.0.1 llamavoice.com
@@ -876,6 +878,7 @@
 127.0.0.1 maliciousmusic.com
 127.0.0.1 managedpush.com
 127.0.0.1 manamoment.com
+127.0.0.1 maniacalappliance.com
 127.0.0.1 mantrafox.com
 127.0.0.1 mapbasin.com
 127.0.0.1 mapcommand.com
@@ -926,7 +929,6 @@
 127.0.0.1 mindfulgem.com
 127.0.0.1 mindlessmark.com
 127.0.0.1 minorcattle.com
-127.0.0.1 minusmental.com
 127.0.0.1 minuteburst.com
 127.0.0.1 miscreantmoon.com
 127.0.0.1 missionrewards.com
@@ -943,7 +945,6 @@
 127.0.0.1 morefriendly.com
 127.0.0.1 mostdishy.com
 127.0.0.1 motionflowers.com
-127.0.0.1 motionlessbag.com
 127.0.0.1 motionlessbelief.com
 127.0.0.1 motionlessmeeting.com
 127.0.0.1 movemeal.com
@@ -952,7 +953,6 @@
 127.0.0.1 muddledaftermath.com
 127.0.0.1 muddledmemory.com
 127.0.0.1 mundanenail.com
-127.0.0.1 mundanepollution.com
 127.0.0.1 mushywaste.com
 127.0.0.1 muteknife.com
 127.0.0.1 mutemailbox.com
@@ -1039,10 +1039,10 @@
 127.0.0.1 papamug.com
 127.0.0.1 parallelbulb.com
 127.0.0.1 parchedsofa.com
-127.0.0.1 pardonpopular.com
 127.0.0.1 parentpicture.com
 127.0.0.1 parsimoniouspolice.com
 127.0.0.1 partplanes.com
+127.0.0.1 passengerpage.com
 127.0.0.1 passivepolo.com
 127.0.0.1 pastoralroad.com
 127.0.0.1 pawsnug.com
@@ -1103,6 +1103,7 @@
 127.0.0.1 preciousplanes.com
 127.0.0.1 preciousyoke.com
 127.0.0.1 predictplate.com
+127.0.0.1 prefixpatriot.com
 127.0.0.1 prepareplanes.com
 127.0.0.1 presetrabbits.com
 127.0.0.1 prettylearning.com
@@ -1127,7 +1128,6 @@
 127.0.0.1 propsynergy.com
 127.0.0.1 protestcopy.com
 127.0.0.1 psychedelicarithmetic.com
-127.0.0.1 psychedelicchess.com
 127.0.0.1 publicsofa.com
 127.0.0.1 puffyloss.com
 127.0.0.1 puffypaste.com
@@ -1169,6 +1169,7 @@
 127.0.0.1 rangecake.com
 127.0.0.1 rangeplayground.com
 127.0.0.1 rangergustav.com
+127.0.0.1 rarestcandy.com
 127.0.0.1 raresummer.com
 127.0.0.1 razzweb.com
 127.0.0.1 reactjspdf.com
@@ -1275,7 +1276,6 @@
 127.0.0.1 scaredsong.com
 127.0.0.1 scaredstomach.com
 127.0.0.1 scaredstory.com
-127.0.0.1 scaredswing.com
 127.0.0.1 scarefowl.com
 127.0.0.1 scarfsmash.com
 127.0.0.1 scatteredheat.com
@@ -1326,10 +1326,10 @@
 127.0.0.1 shadeship.com
 127.0.0.1 shaggytank.com
 127.0.0.1 shakegoldfish.com
-127.0.0.1 shakyseat.com
 127.0.0.1 shakysurprise.com
 127.0.0.1 shallowart.com
 127.0.0.1 shallowblade.com
+127.0.0.1 shallowsmile.com
 127.0.0.1 shamerain.com
 127.0.0.1 shapecomb.com
 127.0.0.1 sheargovernor.com
@@ -1364,6 +1364,7 @@
 127.0.0.1 sinceresubstance.com
 127.0.0.1 singroot.com
 127.0.0.1 sinkportal.com
+127.0.0.1 sittingpets.com
 127.0.0.1 sixauthority.com
 127.0.0.1 sixscissors.com
 127.0.0.1 sizzlingsmoke.com
@@ -1383,6 +1384,7 @@
 127.0.0.1 smilingcattle.com
 127.0.0.1 smilingmaster.com
 127.0.0.1 smilingswim.com
+127.0.0.1 smilingwaves.com
 127.0.0.1 smoggysnakes.com
 127.0.0.1 smoggysongs.com
 127.0.0.1 smoggystation.com
@@ -1417,7 +1419,6 @@
 127.0.0.1 soundstocking.com
 127.0.0.1 sowlettuce.com
 127.0.0.1 spaceaffinity.com
-127.0.0.1 spadelocket.com
 127.0.0.1 spareapp.com
 127.0.0.1 sparkgoal.com
 127.0.0.1 sparklingshelf.com
@@ -1523,6 +1524,7 @@
 127.0.0.1 subseaagent.com
 127.0.0.1 subseasecurity.com
 127.0.0.1 subsequentstew.com
+127.0.0.1 subsequentswim.com
 127.0.0.1 substantialgrade.com
 127.0.0.1 substantialstraw.com
 127.0.0.1 succeedscene.com
@@ -1530,7 +1532,6 @@
 127.0.0.1 sugarcurtain.com
 127.0.0.1 suggestionbridge.com
 127.0.0.1 sulkycook.com
-127.0.0.1 summerhamster.com
 127.0.0.1 summerobject.com
 127.0.0.1 sunsetstatic.com
 127.0.0.1 sunshinegates.com
@@ -1593,6 +1594,7 @@
 127.0.0.1 thinkitten.com
 127.0.0.1 thinkitwice.com
 127.0.0.1 thirdrespect.com
+127.0.0.1 thirstytwig.com
 127.0.0.1 thomastorch.com
 127.0.0.1 thoughtlessknot.com
 127.0.0.1 threechurch.com
@@ -1607,7 +1609,6 @@
 127.0.0.1 tidymitten.com
 127.0.0.1 tidytrail.com
 127.0.0.1 tightpowder.com
-127.0.0.1 timeterritory.com
 127.0.0.1 tinyswans.com
 127.0.0.1 tinytendency.com
 127.0.0.1 tiredthroat.com
@@ -1630,6 +1631,7 @@
 127.0.0.1 tranquilveil.com
 127.0.0.1 tranquilveranda.com
 127.0.0.1 trappush.com
+127.0.0.1 trapteaching.com
 127.0.0.1 treadbun.com
 127.0.0.1 treatoceans.com
 127.0.0.1 tremendousplastic.com
@@ -1672,7 +1674,6 @@
 127.0.0.1 unloadyourself.com
 127.0.0.1 untidyrice.com
 127.0.0.1 unusedquestion.com
-127.0.0.1 unusedstone.com
 127.0.0.1 unusualtitle.com
 127.0.0.1 unwieldyhealth.com
 127.0.0.1 unwieldyimpulse.com
@@ -1684,6 +1685,7 @@
 127.0.0.1 valuebuttons.com
 127.0.0.1 vanfireworks.com
 127.0.0.1 vanishmemory.com
+127.0.0.1 velvetnova.com
 127.0.0.1 velvetquasar.com
 127.0.0.1 vengefulgrass.com
 127.0.0.1 venomousvessel.com
@@ -1727,6 +1729,7 @@
 127.0.0.1 waveinverter.com
 127.0.0.1 waxsirens.com
 127.0.0.1 wayjoyfarm.com
+127.0.0.1 wearywater.com
 127.0.0.1 websitesdude.com
 127.0.0.1 wellgroomedapparel.com
 127.0.0.1 wellgroomedhydrant.com
