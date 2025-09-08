@@ -1,6 +1,6 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: V6iDkSqrzCEROskh7aDP/A
-! Last modified: 2025-09-01 08:29 UTC
+! Checksum: RNoo7J+EAAwhwu9q2Dbm4Q
+! Last modified: 2025-09-08 08:28 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -373,6 +373,7 @@
 127.0.0.1 crowdedmass.com
 127.0.0.1 cruisetourist.com
 127.0.0.1 crunchcontrol.com
+127.0.0.1 cryptvalue.com
 127.0.0.1 crystalboulevard.com
 127.0.0.1 cubchannel.com
 127.0.0.1 cubepins.com
@@ -451,6 +452,7 @@
 127.0.0.1 divergentoffer.com
 127.0.0.1 dockdigestion.com
 127.0.0.1 dogbedscentral.com
+127.0.0.1 dogsshoes.com
 127.0.0.1 dollardelta.com
 127.0.0.1 donkeyleaf.com
 127.0.0.1 doubledefend.com
@@ -542,7 +544,6 @@
 127.0.0.1 fabcharting.com
 127.0.0.1 fabledsoul.com
 127.0.0.1 facilitatebreakfast.com
-127.0.0.1 fadechildren.com
 127.0.0.1 fadedsnow.com
 127.0.0.1 fairfeeling.com
 127.0.0.1 fairiesbranch.com
@@ -631,7 +632,6 @@
 127.0.0.1 functionalcrown.com
 127.0.0.1 functionalfeather.com
 127.0.0.1 funoverbored.com
-127.0.0.1 furnstudio.com
 127.0.0.1 furryfork.com
 127.0.0.1 fusedcontent.com
 127.0.0.1 futuristicapparatus.com
@@ -648,7 +648,6 @@
 127.0.0.1 geekbackyard.com
 127.0.0.1 generalprose.com
 127.0.0.1 generateoffice.com
-127.0.0.1 gentlemoonlight.com
 127.0.0.1 getadmiral.com
 127.0.0.1 getdrip.com
 127.0.0.1 getwagtail.com
@@ -814,6 +813,7 @@
 127.0.0.1 jubilantwhisper.com
 127.0.0.1 juicebard.com
 127.0.0.1 juiceblocks.com
+127.0.0.1 justconfig.com
 127.0.0.1 justicejudo.com
 127.0.0.1 justpickaname.com
 127.0.0.1 justwebcards.com
@@ -899,7 +899,6 @@
 127.0.0.1 marriedbelief.com
 127.0.0.1 marriedmailbox.com
 127.0.0.1 marriedvalue.com
-127.0.0.1 marrowleaves.com
 127.0.0.1 materialisticmoon.com
 127.0.0.1 materialmilk.com
 127.0.0.1 materialmoon.com
@@ -1201,6 +1200,7 @@
 127.0.0.1 reconditerake.com
 127.0.0.1 reconditerespect.com
 127.0.0.1 redbricksoap.com
+127.0.0.1 referdriving.com
 127.0.0.1 reflectpaint.com
 127.0.0.1 refundradar.com
 127.0.0.1 regexmail.com
@@ -1272,7 +1272,6 @@
 127.0.0.1 savoryink.com
 127.0.0.1 savoryorange.com
 127.0.0.1 savorystructure.com
-127.0.0.1 sayinnovation.com
 127.0.0.1 scarceshock.com
 127.0.0.1 scarcesign.com
 127.0.0.1 scarcestream.com
@@ -1351,6 +1350,7 @@
 127.0.0.1 shiverscissors.com
 127.0.0.1 shockinggrass.com
 127.0.0.1 shockingship.com
+127.0.0.1 shockingswing.com
 127.0.0.1 showsteel.com
 127.0.0.1 shredquiz.com
 127.0.0.1 shrewsburyshow.com
@@ -1400,6 +1400,7 @@
 127.0.0.1 snacktoken.com
 127.0.0.1 snakemineral.com
 127.0.0.1 snakeslang.com
+127.0.0.1 snakesshop.com
 127.0.0.1 snappyreport.com
 127.0.0.1 snapsgate.com
 127.0.0.1 sneakwind.com
@@ -1424,7 +1425,6 @@
 127.0.0.1 soresneeze.com
 127.0.0.1 soretrain.com
 127.0.0.1 sortstructure.com
-127.0.0.1 soulclicking.com
 127.0.0.1 soundstocking.com
 127.0.0.1 sowlettuce.com
 127.0.0.1 spaceaffinity.com
@@ -1537,6 +1537,7 @@
 127.0.0.1 substantialgrade.com
 127.0.0.1 substantialstraw.com
 127.0.0.1 succeedscene.com
+127.0.0.1 suddensnake.com
 127.0.0.1 suddensoda.com
 127.0.0.1 sugarcurtain.com
 127.0.0.1 suggestionbridge.com
@@ -1634,6 +1635,7 @@
 127.0.0.1 tracecontent.com
 127.0.0.1 traderbyte.com
 127.0.0.1 tradetooth.com
+127.0.0.1 trafficviews.com
 127.0.0.1 tranquilcan.com
 127.0.0.1 tranquilcanyon.com
 127.0.0.1 tranquilplume.com
@@ -1642,6 +1644,7 @@
 127.0.0.1 trappush.com
 127.0.0.1 treadbun.com
 127.0.0.1 treatoceans.com
+127.0.0.1 tremendousearthquake.com
 127.0.0.1 tremendousplastic.com
 127.0.0.1 tremendoustime.com
 127.0.0.1 trickfile.com
@@ -1682,6 +1685,7 @@
 127.0.0.1 unloadyourself.com
 127.0.0.1 untidyrice.com
 127.0.0.1 unusedquestion.com
+127.0.0.1 unusedstone.com
 127.0.0.1 unusualtitle.com
 127.0.0.1 unwieldyhealth.com
 127.0.0.1 unwieldyimpulse.com
@@ -1734,6 +1738,7 @@
 127.0.0.1 washbanana.com
 127.0.0.1 watersensible.com
 127.0.0.1 waterywave.com
+127.0.0.1 waterywrist.com
 127.0.0.1 waveinverter.com
 127.0.0.1 waxsirens.com
 127.0.0.1 wayjoyfarm.com
