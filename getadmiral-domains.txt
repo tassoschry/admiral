@@ -1,6 +1,6 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: RNoo7J+EAAwhwu9q2Dbm4Q
-! Last modified: 2025-09-08 08:28 UTC
+! Checksum: IGxECWYKn6nEMzvz2mVkzA
+! Last modified: 2025-09-15 08:24 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -57,6 +57,7 @@
 127.0.0.1 admiral.support
 127.0.0.1 admiral.website
 127.0.0.1 admiralcdn.com
+127.0.0.1 admiralexternal.com
 127.0.0.1 admlcdn.com
 127.0.0.1 adorableanger.com
 127.0.0.1 adorableattention.com
@@ -241,6 +242,7 @@
 127.0.0.1 canvasandsocks.com
 127.0.0.1 capablecup.com
 127.0.0.1 capriciouscorn.com
+127.0.0.1 capsquirrel.com
 127.0.0.1 captainbicycle.com
 127.0.0.1 captivatingcanyon.com
 127.0.0.1 captivatingillusion.com
@@ -452,7 +454,6 @@
 127.0.0.1 divergentoffer.com
 127.0.0.1 dockdigestion.com
 127.0.0.1 dogbedscentral.com
-127.0.0.1 dogsshoes.com
 127.0.0.1 dollardelta.com
 127.0.0.1 donkeyleaf.com
 127.0.0.1 doubledefend.com
@@ -466,6 +467,7 @@
 127.0.0.1 driftingchef.com
 127.0.0.1 driftpizza.com
 127.0.0.1 drollwharf.com
+127.0.0.1 drydrum.com
 127.0.0.1 dustydime.com
 127.0.0.1 dustyhammer.com
 127.0.0.1 dyecloud.com
@@ -535,12 +537,12 @@
 127.0.0.1 executeknowledge.com
 127.0.0.1 exhibitsneeze.com
 127.0.0.1 expansioneggnog.com
-127.0.0.1 experienceeggs.com
 127.0.0.1 exquisiteartisanship.com
 127.0.0.1 extractobservation.com
 127.0.0.1 extralocker.com
 127.0.0.1 extramonies.com
 127.0.0.1 exuberantedge.com
+127.0.0.1 exultantdrop.com
 127.0.0.1 fabcharting.com
 127.0.0.1 fabledsoul.com
 127.0.0.1 facilitatebreakfast.com
@@ -586,7 +588,6 @@
 127.0.0.1 firstendpoint.com
 127.0.0.1 fishersfinds.com
 127.0.0.1 fitmessage.com
-127.0.0.1 fitnessmapper.com
 127.0.0.1 fivesidedsquare.com
 127.0.0.1 fixedfold.com
 127.0.0.1 flakyfeast.com
@@ -624,7 +625,6 @@
 127.0.0.1 friedone.com
 127.0.0.1 friendlycrayon.com
 127.0.0.1 friendlyfold.com
-127.0.0.1 frogator.com
 127.0.0.1 fronttoad.com
 127.0.0.1 frugalfiestas.com
 127.0.0.1 fuelreaction.com
@@ -986,7 +986,6 @@
 127.0.0.1 netizen.co
 127.0.0.1 nevitable.com
 127.0.0.1 newarkdriving.com
-127.0.0.1 newartreview.com
 127.0.0.1 niftygraphs.com
 127.0.0.1 niftyhospital.com
 127.0.0.1 niftyjelly.com
@@ -1018,6 +1017,7 @@
 127.0.0.1 offshoregeology.com
 127.0.0.1 oldfashionedoffer.com
 127.0.0.1 omgthink.com
+127.0.0.1 omniscientspark.com
 127.0.0.1 onedropocean.com
 127.0.0.1 onlywoofs.com
 127.0.0.1 opalquill.com
@@ -1088,6 +1088,7 @@
 127.0.0.1 pluckyzone.com
 127.0.0.1 pocketfaucet.com
 127.0.0.1 pocketsonic.com
+127.0.0.1 podiumpresto.com
 127.0.0.1 podname.com
 127.0.0.1 poemprompt.com
 127.0.0.1 poeticpackage.com
@@ -1200,7 +1201,6 @@
 127.0.0.1 reconditerake.com
 127.0.0.1 reconditerespect.com
 127.0.0.1 redbricksoap.com
-127.0.0.1 referdriving.com
 127.0.0.1 reflectpaint.com
 127.0.0.1 refundradar.com
 127.0.0.1 regexmail.com
@@ -1343,6 +1343,7 @@
 127.0.0.1 shapecomb.com
 127.0.0.1 sheargovernor.com
 127.0.0.1 sheideal.com
+127.0.0.1 sheltercellar.com
 127.0.0.1 shesubscriptions.com
 127.0.0.1 shinypond.com
 127.0.0.1 shirtsidewalk.com
@@ -1350,7 +1351,6 @@
 127.0.0.1 shiverscissors.com
 127.0.0.1 shockinggrass.com
 127.0.0.1 shockingship.com
-127.0.0.1 shockingswing.com
 127.0.0.1 showsteel.com
 127.0.0.1 shredquiz.com
 127.0.0.1 shrewsburyshow.com
@@ -1374,6 +1374,7 @@
 127.0.0.1 sinceresubstance.com
 127.0.0.1 singroot.com
 127.0.0.1 sinkportal.com
+127.0.0.1 sittingpets.com
 127.0.0.1 sixauthority.com
 127.0.0.1 sixscissors.com
 127.0.0.1 sizzlingsmoke.com
@@ -1382,6 +1383,7 @@
 127.0.0.1 skullmagnets.com
 127.0.0.1 slaysweater.com
 127.0.0.1 slickcontent.com
+127.0.0.1 slimopinion.com
 127.0.0.1 slinksuggestion.com
 127.0.0.1 slopesoap.com
 127.0.0.1 sloppycalculator.com
@@ -1537,7 +1539,6 @@
 127.0.0.1 substantialgrade.com
 127.0.0.1 substantialstraw.com
 127.0.0.1 succeedscene.com
-127.0.0.1 suddensnake.com
 127.0.0.1 suddensoda.com
 127.0.0.1 sugarcurtain.com
 127.0.0.1 suggestionbridge.com
@@ -1635,7 +1636,6 @@
 127.0.0.1 tracecontent.com
 127.0.0.1 traderbyte.com
 127.0.0.1 tradetooth.com
-127.0.0.1 trafficviews.com
 127.0.0.1 tranquilcan.com
 127.0.0.1 tranquilcanyon.com
 127.0.0.1 tranquilplume.com
@@ -1644,7 +1644,6 @@
 127.0.0.1 trappush.com
 127.0.0.1 treadbun.com
 127.0.0.1 treatoceans.com
-127.0.0.1 tremendousearthquake.com
 127.0.0.1 tremendousplastic.com
 127.0.0.1 tremendoustime.com
 127.0.0.1 trickfile.com
@@ -1738,7 +1737,6 @@
 127.0.0.1 washbanana.com
 127.0.0.1 watersensible.com
 127.0.0.1 waterywave.com
-127.0.0.1 waterywrist.com
 127.0.0.1 waveinverter.com
 127.0.0.1 waxsirens.com
 127.0.0.1 wayjoyfarm.com
