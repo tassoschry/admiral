@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: amzgmWm+SBJQ4rKNLN1Fuw
-! Version: 202512010832
-! Last modified: 2025-12-01 08:32 UTC
+! Checksum: Bksx30DbHJvhMRijuf9qVw
+! Version: 202512080828
+! Last modified: 2025-12-08 08:28 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -117,7 +117,6 @@
 127.0.0.1 awakebird.com
 127.0.0.1 awarealley.com
 127.0.0.1 awzbijw.com
-127.0.0.1 axiomaticalley.com
 127.0.0.1 axiomaticanger.com
 127.0.0.1 azuremystique.com
 127.0.0.1 azurestealth.com
@@ -161,6 +160,7 @@
 127.0.0.1 billowybelief.com
 127.0.0.1 binspiredtees.com
 127.0.0.1 birthdaybelief.com
+127.0.0.1 bitterbear.com
 127.0.0.1 blackbrake.com
 127.0.0.1 bleachbubble.com
 127.0.0.1 bleachscarecrow.com
@@ -197,6 +197,7 @@
 127.0.0.1 bravecalculator.com
 127.0.0.1 breadbalance.com
 127.0.0.1 breakableinsurance.com
+127.0.0.1 breakerror.com
 127.0.0.1 breakfastboat.com
 127.0.0.1 breezybright.com
 127.0.0.1 breezygrove.com
@@ -282,7 +283,6 @@
 127.0.0.1 childlikeexample.com
 127.0.0.1 childlikeform.com
 127.0.0.1 chingovernment.com
-127.0.0.1 chinsnakes.com
 127.0.0.1 chipperisle.com
 127.0.0.1 chivalrouscord.com
 127.0.0.1 chubbycreature.com
@@ -327,7 +327,6 @@
 127.0.0.1 confirmglobal.com
 127.0.0.1 confusedcart.com
 127.0.0.1 connectashelf.com
-127.0.0.1 consciouschairs.com
 127.0.0.1 consciouscheese.com
 127.0.0.1 consciousdirt.com
 127.0.0.1 consultantchow.com
@@ -417,7 +416,6 @@
 127.0.0.1 defeatedbadge.com
 127.0.0.1 defensevest.com
 127.0.0.1 degreechariot.com
-127.0.0.1 delegatediscussion.com
 127.0.0.1 delicatecascade.com
 127.0.0.1 deliciousducks.com
 127.0.0.1 delightdriving.com
@@ -761,7 +759,6 @@
 127.0.0.1 immensehoney.com
 127.0.0.1 imminentshake.com
 127.0.0.1 importantmeat.com
-127.0.0.1 importedincrease.com
 127.0.0.1 importedinsect.com
 127.0.0.1 impossibleexpansion.com
 127.0.0.1 impulsejewel.com
@@ -784,7 +781,6 @@
 127.0.0.1 itemslice.com
 127.0.0.1 ivykiosk.com
 127.0.0.1 j93557g.com
-127.0.0.1 jadeitite.com
 127.0.0.1 jaderooster.com
 127.0.0.1 jailbulb.com
 127.0.0.1 joblessdrum.com
@@ -1047,7 +1043,6 @@
 127.0.0.1 peacefullimit.com
 127.0.0.1 pedropanther.com
 127.0.0.1 pegsbuttons.com
-127.0.0.1 perceivequarter.com
 127.0.0.1 perkyjade.com
 127.0.0.1 phonecup.com
 127.0.0.1 photohints.com
@@ -1521,7 +1516,7 @@
 127.0.0.1 substantialgrade.com
 127.0.0.1 substantialstraw.com
 127.0.0.1 succeedscene.com
-127.0.0.1 suddensidewalk.com
+127.0.0.1 suddensnake.com
 127.0.0.1 suddensoda.com
 127.0.0.1 sugarcurtain.com
 127.0.0.1 suggestionbridge.com
