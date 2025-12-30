@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: 6oX+jN1rIFYpDbmkofjJVA
-! Version: 202512220827
-! Last modified: 2025-12-22 08:27 UTC
+! Checksum: 0Ru2s2wR2MMzDQBT54BNjg
+! Version: 202512290828
+! Last modified: 2025-12-29 08:28 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -231,6 +231,7 @@
 127.0.0.1 calculatorstatement.com
 127.0.0.1 callousbrake.com
 127.0.0.1 calmcactus.com
+127.0.0.1 calmfoot.com
 127.0.0.1 calmstudent.com
 127.0.0.1 calypsocapsule.com
 127.0.0.1 cannonchange.com
@@ -397,8 +398,6 @@
 127.0.0.1 dandydune.com
 127.0.0.1 dandyglow.com
 127.0.0.1 dapperdiscussion.com
-127.0.0.1 dapperfloor.com
-127.0.0.1 dashingdirt.com
 127.0.0.1 dashingdrop.com
 127.0.0.1 datastoried.com
 127.0.0.1 daymodern.com
@@ -458,6 +457,7 @@
 127.0.0.1 driftingchef.com
 127.0.0.1 driftpizza.com
 127.0.0.1 drollwharf.com
+127.0.0.1 drydrum.com
 127.0.0.1 dustydime.com
 127.0.0.1 dustyhammer.com
 127.0.0.1 dyecloud.com
@@ -620,6 +620,7 @@
 127.0.0.1 functionalcrown.com
 127.0.0.1 functionalfeather.com
 127.0.0.1 funoverbored.com
+127.0.0.1 furnstudio.com
 127.0.0.1 furryfork.com
 127.0.0.1 fusedcontent.com
 127.0.0.1 futuristicfifth.com
@@ -882,6 +883,7 @@
 127.0.0.1 marriedbelief.com
 127.0.0.1 marriedmailbox.com
 127.0.0.1 marriedvalue.com
+127.0.0.1 massivemark.com
 127.0.0.1 materialisticmoon.com
 127.0.0.1 materialmilk.com
 127.0.0.1 materialmoon.com
@@ -968,7 +970,6 @@
 127.0.0.1 netizen.co
 127.0.0.1 nevitable.com
 127.0.0.1 newarkdriving.com
-127.0.0.1 newartreview.com
 127.0.0.1 niftygraphs.com
 127.0.0.1 niftyhospital.com
 127.0.0.1 niftyjelly.com
@@ -994,6 +995,7 @@
 127.0.0.1 oafishobservation.com
 127.0.0.1 objecthero.com
 127.0.0.1 obscenesidewalk.com
+127.0.0.1 observantice.com
 127.0.0.1 offerniche.com
 127.0.0.1 offgridcrops.com
 127.0.0.1 offshorecyclone.com
@@ -1042,6 +1044,7 @@
 127.0.0.1 pegsbuttons.com
 127.0.0.1 perkyjade.com
 127.0.0.1 phonecup.com
+127.0.0.1 phonicsblitz.com
 127.0.0.1 photohints.com
 127.0.0.1 physicstees.com
 127.0.0.1 pickmicro.com
@@ -1069,6 +1072,7 @@
 127.0.0.1 pluckypocket.com
 127.0.0.1 pluckyzone.com
 127.0.0.1 pocketfaucet.com
+127.0.0.1 podiumpresto.com
 127.0.0.1 podname.com
 127.0.0.1 poemprompt.com
 127.0.0.1 poeticpackage.com
@@ -1298,6 +1302,7 @@
 127.0.0.1 seenvault.com
 127.0.0.1 seespice.com
 127.0.0.1 selectivesummer.com
+127.0.0.1 selfishsea.com
 127.0.0.1 selfishsnake.com
 127.0.0.1 sendingspire.com
 127.0.0.1 sentrymagic.com
