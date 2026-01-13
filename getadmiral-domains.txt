@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: y6VhETv7DnyZQvFgBBjXRA
-! Version: 202601050830
-! Last modified: 2026-01-05 08:30 UTC
+! Checksum: 6qM9TTuawz00VbH3PANHiA
+! Version: 202601120859
+! Last modified: 2026-01-12 08:59 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -124,7 +124,6 @@
 127.0.0.1 badgevolcano.com
 127.0.0.1 bagbeam.com
 127.0.0.1 bahamashello.com
-127.0.0.1 bahamashello.com
 127.0.0.1 baitbaseball.com
 127.0.0.1 balancebreath.com
 127.0.0.1 balloonbelieve.com
@@ -215,6 +214,7 @@
 127.0.0.1 bungeesleeves.com
 127.0.0.1 burgersalt.com
 127.0.0.1 burnbubble.com
+127.0.0.1 burntwist.com
 127.0.0.1 bushesbag.com
 127.0.0.1 businessbells.com
 127.0.0.1 bustlingbook.com
@@ -355,7 +355,6 @@
 127.0.0.1 cratecamera.com
 127.0.0.1 craterbox.com
 127.0.0.1 crawlclocks.com
-127.0.0.1 crayoncompetition.com
 127.0.0.1 creatorcherry.com
 127.0.0.1 creatorpassenger.com
 127.0.0.1 creaturecabbage.com
@@ -410,7 +409,6 @@
 127.0.0.1 defeatedbadge.com
 127.0.0.1 defensevest.com
 127.0.0.1 degreechariot.com
-127.0.0.1 delegatediscussion.com
 127.0.0.1 delicatecascade.com
 127.0.0.1 deliciousducks.com
 127.0.0.1 delightdriving.com
@@ -609,7 +607,6 @@
 127.0.0.1 friedone.com
 127.0.0.1 friendlycrayon.com
 127.0.0.1 friendlyfold.com
-127.0.0.1 frightenedpotato.com
 127.0.0.1 fronttoad.com
 127.0.0.1 frugalfiestas.com
 127.0.0.1 fuelreaction.com
@@ -643,6 +640,7 @@
 127.0.0.1 giraffepiano.com
 127.0.0.1 gitcrumbs.com
 127.0.0.1 givevacation.com
+127.0.0.1 gladglen.com
 127.0.0.1 gladysway.com
 127.0.0.1 glamhawk.com
 127.0.0.1 glasscoyote.com
@@ -814,6 +812,7 @@
 127.0.0.1 largebrass.com
 127.0.0.1 lasttaco.com
 127.0.0.1 laughcloth.com
+127.0.0.1 laughdrum.com
 127.0.0.1 launchjack.com
 127.0.0.1 lazychord.com
 127.0.0.1 leafpilot.com
@@ -995,7 +994,6 @@
 127.0.0.1 offshoregeology.com
 127.0.0.1 oldfashionedoffer.com
 127.0.0.1 omgthink.com
-127.0.0.1 omniscientspark.com
 127.0.0.1 onedropocean.com
 127.0.0.1 onlywoofs.com
 127.0.0.1 opalquill.com
@@ -1064,7 +1062,6 @@
 127.0.0.1 pluckypocket.com
 127.0.0.1 pluckyzone.com
 127.0.0.1 pocketfaucet.com
-127.0.0.1 podiumpresto.com
 127.0.0.1 podname.com
 127.0.0.1 poemprompt.com
 127.0.0.1 poeticpackage.com
@@ -1147,6 +1144,7 @@
 127.0.0.1 railwayrainstorm.com
 127.0.0.1 railwayreason.com
 127.0.0.1 raintwig.com
+127.0.0.1 rainydirt.com
 127.0.0.1 rainyhand.com
 127.0.0.1 rainyrule.com
 127.0.0.1 rambunctiousflock.com
@@ -1183,7 +1181,6 @@
 127.0.0.1 regularplants.com
 127.0.0.1 regulatesleet.com
 127.0.0.1 rehabilitatereason.com
-127.0.0.1 rejectfairies.com
 127.0.0.1 relationrest.com
 127.0.0.1 releasepath.com
 127.0.0.1 reloadphoto.com
@@ -1339,7 +1336,6 @@
 127.0.0.1 sicksmash.com
 127.0.0.1 sierrakermit.com
 127.0.0.1 signaturepod.com
-127.0.0.1 silentcredit.com
 127.0.0.1 silentjackal.com
 127.0.0.1 silentwrench.com
 127.0.0.1 siliconslow.com
@@ -1451,6 +1447,7 @@
 127.0.0.1 stakingbasket.com
 127.0.0.1 stakingshock.com
 127.0.0.1 stakingsmile.com
+127.0.0.1 staleshow.com
 127.0.0.1 stalesummer.com
 127.0.0.1 starkscale.com
 127.0.0.1 startercost.com
@@ -1616,7 +1613,6 @@
 127.0.0.1 trafficviews.com
 127.0.0.1 tranquilcan.com
 127.0.0.1 tranquilplume.com
-127.0.0.1 tranquilside.com
 127.0.0.1 tranquilveil.com
 127.0.0.1 tranquilveranda.com
 127.0.0.1 trappush.com
@@ -1659,7 +1655,6 @@
 127.0.0.1 unknowncrate.com
 127.0.0.1 unknownidea.com
 127.0.0.1 unloadyourself.com
-127.0.0.1 untidyquestion.com
 127.0.0.1 untidyrice.com
 127.0.0.1 unusedquestion.com
 127.0.0.1 unusualtitle.com
@@ -1720,7 +1715,6 @@
 127.0.0.1 websitesdude.com
 127.0.0.1 wellgroomedapparel.com
 127.0.0.1 wellgroomedhydrant.com
-127.0.0.1 wellmadefrog.com
 127.0.0.1 whimsicalcanyon.com
 127.0.0.1 whimsicalgrove.com
 127.0.0.1 whimsicalvantage.com
