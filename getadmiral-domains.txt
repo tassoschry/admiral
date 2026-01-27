@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: LFty7W+lMB3s9GnA8BsJJA
-! Version: 202601200824
-! Last modified: 2026-01-20 08:24 UTC
+! Checksum: fiP756yG9v/ijuo413OTVQ
+! Version: 202601260834
+! Last modified: 2026-01-26 08:34 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -32,7 +32,6 @@
 127.0.0.1 abjectattempt.com
 127.0.0.1 aboardamusement.com
 127.0.0.1 aboardlevel.com
-127.0.0.1 abovechat.com
 127.0.0.1 abruptroad.com
 127.0.0.1 absentairport.com
 127.0.0.1 absorbingband.com
@@ -213,7 +212,6 @@
 127.0.0.1 buildingknife.com
 127.0.0.1 bulbbait.com
 127.0.0.1 bumpermash.com
-127.0.0.1 bumpydevelopment.com
 127.0.0.1 bunchance.com
 127.0.0.1 bungeesleeves.com
 127.0.0.1 burgersalt.com
@@ -369,6 +367,7 @@
 127.0.0.1 crowdedmass.com
 127.0.0.1 cruisetourist.com
 127.0.0.1 crunchcontrol.com
+127.0.0.1 cryptvalue.com
 127.0.0.1 crystalboulevard.com
 127.0.0.1 cubchannel.com
 127.0.0.1 cubepins.com
@@ -524,6 +523,7 @@
 127.0.0.1 executeknowledge.com
 127.0.0.1 exhibitsneeze.com
 127.0.0.1 expansioneggnog.com
+127.0.0.1 experienceeggs.com
 127.0.0.1 exquisiteartisanship.com
 127.0.0.1 extractobservation.com
 127.0.0.1 extralocker.com
@@ -572,6 +572,7 @@
 127.0.0.1 firecatfilms.com
 127.0.0.1 fireworkcamp.com
 127.0.0.1 firstendpoint.com
+127.0.0.1 fishersfinds.com
 127.0.0.1 fitmessage.com
 127.0.0.1 fitnessmapper.com
 127.0.0.1 fivesidedsquare.com
@@ -613,6 +614,7 @@
 127.0.0.1 friedone.com
 127.0.0.1 friendlycrayon.com
 127.0.0.1 friendlyfold.com
+127.0.0.1 frogator.com
 127.0.0.1 fronttoad.com
 127.0.0.1 frugalfiestas.com
 127.0.0.1 fuelreaction.com
@@ -620,7 +622,6 @@
 127.0.0.1 functionalcrown.com
 127.0.0.1 functionalfeather.com
 127.0.0.1 funoverbored.com
-127.0.0.1 furnstudio.com
 127.0.0.1 furryfork.com
 127.0.0.1 fusedcontent.com
 127.0.0.1 futuristicfifth.com
@@ -883,6 +884,7 @@
 127.0.0.1 marriedbelief.com
 127.0.0.1 marriedmailbox.com
 127.0.0.1 marriedvalue.com
+127.0.0.1 marrowleaves.com
 127.0.0.1 massivemark.com
 127.0.0.1 materialisticmoon.com
 127.0.0.1 materialmilk.com
@@ -1042,6 +1044,7 @@
 127.0.0.1 pegsbuttons.com
 127.0.0.1 perkyjade.com
 127.0.0.1 phonecup.com
+127.0.0.1 photographpan.com
 127.0.0.1 photohints.com
 127.0.0.1 physicstees.com
 127.0.0.1 pickmicro.com
@@ -1174,6 +1177,7 @@
 127.0.0.1 rebelswing.com
 127.0.0.1 rebootrewire.com
 127.0.0.1 receiptcent.com
+127.0.0.1 receptiveink.com
 127.0.0.1 receptivereaction.com
 127.0.0.1 recessrain.com
 127.0.0.1 recipepin.com
@@ -1218,6 +1222,7 @@
 127.0.0.1 ringplant.com
 127.0.0.1 ringsrecord.com
 127.0.0.1 riserange.com
+127.0.0.1 ritzykey.com
 127.0.0.1 ritzyrepresentative.com
 127.0.0.1 ritzyveil.com
 127.0.0.1 roadwalks.com
@@ -1321,6 +1326,7 @@
 127.0.0.1 shakegoldfish.com
 127.0.0.1 shakesea.com
 127.0.0.1 shakysurprise.com
+127.0.0.1 shakytaste.com
 127.0.0.1 shallowart.com
 127.0.0.1 shallowblade.com
 127.0.0.1 shamerain.com
@@ -1456,6 +1462,7 @@
 127.0.0.1 stakingsmile.com
 127.0.0.1 staleshow.com
 127.0.0.1 stalesummer.com
+127.0.0.1 stampknot.com
 127.0.0.1 starkscale.com
 127.0.0.1 startercost.com
 127.0.0.1 startingcars.com
@@ -1576,7 +1583,6 @@
 127.0.0.1 tenhourweek.com
 127.0.0.1 tennistie.com
 127.0.0.1 terriblethumb.com
-127.0.0.1 terrifictooth.com
 127.0.0.1 testadmiral.com
 127.0.0.1 testedtouch.com
 127.0.0.1 texturetrick.com
