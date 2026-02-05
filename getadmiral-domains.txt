@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: fiP756yG9v/ijuo413OTVQ
-! Version: 202601260834
-! Last modified: 2026-01-26 08:34 UTC
+! Checksum: /0McufquQGA4ToNVti6pMw
+! Version: 202602040015
+! Last modified: 2026-02-04 00:15 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -56,6 +56,7 @@
 127.0.0.1 admiral.support
 127.0.0.1 admiral.website
 127.0.0.1 admiralcdn.com
+127.0.0.1 admiralexternal.com
 127.0.0.1 admlcdn.com
 127.0.0.1 adorableanger.com
 127.0.0.1 adorableattention.com
@@ -271,7 +272,6 @@
 127.0.0.1 channelcamp.com
 127.0.0.1 chargecracker.com
 127.0.0.1 charmingplate.com
-127.0.0.1 cheerycraze.com
 127.0.0.1 cherriescare.com
 127.0.0.1 chessbranch.com
 127.0.0.1 chesscolor.com
@@ -367,7 +367,6 @@
 127.0.0.1 crowdedmass.com
 127.0.0.1 cruisetourist.com
 127.0.0.1 crunchcontrol.com
-127.0.0.1 cryptvalue.com
 127.0.0.1 crystalboulevard.com
 127.0.0.1 cubchannel.com
 127.0.0.1 cubepins.com
@@ -461,7 +460,6 @@
 127.0.0.1 dustydime.com
 127.0.0.1 dustyhammer.com
 127.0.0.1 dyecloud.com
-127.0.0.1 eagereden.com
 127.0.0.1 eagerflame.com
 127.0.0.1 eagerknight.com
 127.0.0.1 earnbaht.com
@@ -536,7 +534,6 @@
 127.0.0.1 fairfeeling.com
 127.0.0.1 fairiesbranch.com
 127.0.0.1 fairygaze.com
-127.0.0.1 fairytaleflame.com
 127.0.0.1 faithrowold.com
 127.0.0.1 fallaciousfifth.com
 127.0.0.1 falseframe.com
@@ -614,7 +611,6 @@
 127.0.0.1 friedone.com
 127.0.0.1 friendlycrayon.com
 127.0.0.1 friendlyfold.com
-127.0.0.1 frogator.com
 127.0.0.1 fronttoad.com
 127.0.0.1 frugalfiestas.com
 127.0.0.1 fuelreaction.com
@@ -622,6 +618,7 @@
 127.0.0.1 functionalcrown.com
 127.0.0.1 functionalfeather.com
 127.0.0.1 funoverbored.com
+127.0.0.1 furnstudio.com
 127.0.0.1 furryfork.com
 127.0.0.1 fusedcontent.com
 127.0.0.1 futuristicfifth.com
@@ -751,7 +748,6 @@
 127.0.0.1 hypnoticwound.com
 127.0.0.1 hystericalcloth.com
 127.0.0.1 hystericalfinger.com
-127.0.0.1 idyllicjazz.com
 127.0.0.1 illinvention.com
 127.0.0.1 illustriousoatmeal.com
 127.0.0.1 immensehoney.com
@@ -783,7 +779,6 @@
 127.0.0.1 jailbulb.com
 127.0.0.1 joblessdrum.com
 127.0.0.1 joyfulharbor.com
-127.0.0.1 joyfulkeen.com
 127.0.0.1 joyfulvibe.com
 127.0.0.1 joyoussurprise.com
 127.0.0.1 jubilantaura.com
@@ -884,7 +879,6 @@
 127.0.0.1 marriedbelief.com
 127.0.0.1 marriedmailbox.com
 127.0.0.1 marriedvalue.com
-127.0.0.1 marrowleaves.com
 127.0.0.1 massivemark.com
 127.0.0.1 materialisticmoon.com
 127.0.0.1 materialmilk.com
@@ -912,7 +906,6 @@
 127.0.0.1 mentorsticks.com
 127.0.0.1 meremark.com
 127.0.0.1 merequartz.com
-127.0.0.1 merryopal.com
 127.0.0.1 merryvault.com
 127.0.0.1 messagenovice.com
 127.0.0.1 messmonster.com
@@ -1005,7 +998,6 @@
 127.0.0.1 omgthink.com
 127.0.0.1 onedropocean.com
 127.0.0.1 onlywoofs.com
-127.0.0.1 opalquill.com
 127.0.0.1 operationchicken.com
 127.0.0.1 operationnail.com
 127.0.0.1 optimallimit.com
@@ -1072,6 +1064,7 @@
 127.0.0.1 pluckypocket.com
 127.0.0.1 pluckyzone.com
 127.0.0.1 pocketfaucet.com
+127.0.0.1 podiumpresto.com
 127.0.0.1 podname.com
 127.0.0.1 poemprompt.com
 127.0.0.1 poeticpackage.com
@@ -1083,6 +1076,7 @@
 127.0.0.1 polishedcrescent.com
 127.0.0.1 polishedfolly.com
 127.0.0.1 politeplanes.com
+127.0.0.1 politicalflip.com
 127.0.0.1 politicalporter.com
 127.0.0.1 popliquids.com
 127.0.0.1 popplantation.com
@@ -1462,7 +1456,6 @@
 127.0.0.1 stakingsmile.com
 127.0.0.1 staleshow.com
 127.0.0.1 stalesummer.com
-127.0.0.1 stampknot.com
 127.0.0.1 starkscale.com
 127.0.0.1 startercost.com
 127.0.0.1 startingcars.com
