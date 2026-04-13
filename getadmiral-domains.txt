@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: 95GojiqKGz-LWHYS8z7eLA
-! Version: 202604101930
-! Last modified: 2026-04-10 19:30 UTC
+! Checksum: 2iCVDxhrejuS186FHmtqvQ
+! Version: 202604130958
+! Last modified: 2026-04-13 09:58 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -58,7 +58,6 @@
 127.0.0.1 admiral.support
 127.0.0.1 admiral.website
 127.0.0.1 admiralcdn.com
-127.0.0.1 admiralexternal.com
 127.0.0.1 admlcdn.com
 127.0.0.1 adorableanger.com
 127.0.0.1 adorableattention.com
@@ -369,13 +368,13 @@
 127.0.0.1 crowdedmass.com
 127.0.0.1 cruisetourist.com
 127.0.0.1 crunchcontrol.com
+127.0.0.1 cryptvalue.com
 127.0.0.1 crystalboulevard.com
 127.0.0.1 cubchannel.com
 127.0.0.1 cubepins.com
 127.0.0.1 cuddlycake.com
 127.0.0.1 cuddlylunchroom.com
 127.0.0.1 culturedcamera.com
-127.0.0.1 culturedcrayon.com
 127.0.0.1 culturedfeather.com
 127.0.0.1 cumbersomecake.com
 127.0.0.1 cumbersomecarpenter.com
@@ -611,6 +610,7 @@
 127.0.0.1 frequentflesh.com
 127.0.0.1 friedone.com
 127.0.0.1 friendlycrayon.com
+127.0.0.1 frogator.com
 127.0.0.1 fronttoad.com
 127.0.0.1 frugalfiestas.com
 127.0.0.1 fuelreaction.com
@@ -879,6 +879,7 @@
 127.0.0.1 marriedbelief.com
 127.0.0.1 marriedmailbox.com
 127.0.0.1 marriedvalue.com
+127.0.0.1 marrowleaves.com
 127.0.0.1 massivemark.com
 127.0.0.1 materialisticmoon.com
 127.0.0.1 materialmilk.com
@@ -892,7 +893,6 @@
 127.0.0.1 mediatescarf.com
 127.0.0.1 mediavine.com
 127.0.0.1 mediumshort.com
-127.0.0.1 mellowbike.com
 127.0.0.1 mellowhush.com
 127.0.0.1 melodiouschorus.com
 127.0.0.1 melodiouscomposition.com
@@ -1342,7 +1342,6 @@
 127.0.0.1 sinceresubstance.com
 127.0.0.1 singroot.com
 127.0.0.1 sinkportal.com
-127.0.0.1 sittingpets.com
 127.0.0.1 sixauthority.com
 127.0.0.1 sixscissors.com
 127.0.0.1 sizzlingsmoke.com
@@ -1391,7 +1390,6 @@
 127.0.0.1 soresidewalk.com
 127.0.0.1 soretrain.com
 127.0.0.1 sortstructure.com
-127.0.0.1 soulclicking.com
 127.0.0.1 soundstocking.com
 127.0.0.1 sowlettuce.com
 127.0.0.1 spaceaffinity.com
@@ -1439,6 +1437,7 @@
 127.0.0.1 stakingsmile.com
 127.0.0.1 staleshow.com
 127.0.0.1 stalesummer.com
+127.0.0.1 stampknot.com
 127.0.0.1 starkscale.com
 127.0.0.1 startercost.com
 127.0.0.1 startingcars.com
@@ -1458,8 +1457,6 @@
 127.0.0.1 stepwisevideo.com
 127.0.0.1 stereoproxy.com
 127.0.0.1 stereotypedsugar.com
-127.0.0.1 stickssheep.com
-127.0.0.1 stickysheet.com
 127.0.0.1 stiffgame.com
 127.0.0.1 stiffstem.com
 127.0.0.1 stimulatingsneeze.com
@@ -1505,7 +1502,6 @@
 127.0.0.1 substantialgrade.com
 127.0.0.1 substantialstraw.com
 127.0.0.1 succeedscene.com
-127.0.0.1 successfulscent.com
 127.0.0.1 sugarcurtain.com
 127.0.0.1 suggestionbridge.com
 127.0.0.1 sulkycook.com
@@ -1563,7 +1559,6 @@
 127.0.0.1 tennistie.com
 127.0.0.1 terriblethumb.com
 127.0.0.1 testadmiral.com
-127.0.0.1 testedtouch.com
 127.0.0.1 texturetrick.com
 127.0.0.1 thejavalane.com
 127.0.0.1 therapeuticcars.com
@@ -1705,7 +1700,6 @@
 127.0.0.1 waveinverter.com
 127.0.0.1 waxsirens.com
 127.0.0.1 wayjoyfarm.com
-127.0.0.1 wearbasin.com
 127.0.0.1 websitesdude.com
 127.0.0.1 wellgroomedapparel.com
 127.0.0.1 wellgroomedhydrant.com
