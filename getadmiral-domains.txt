@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: 2iCVDxhrejuS186FHmtqvQ
-! Version: 202604130958
-! Last modified: 2026-04-13 09:58 UTC
+! Checksum: td2aMbQfxo6wg9Eh-S4ztw
+! Version: 202604200959
+! Last modified: 2026-04-20 09:59 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -143,7 +143,6 @@
 127.0.0.1 battlebalance.com
 127.0.0.1 bawdybalance.com
 127.0.0.1 beamincrease.com
-127.0.0.1 beamkite.com
 127.0.0.1 beamvolcano.com
 127.0.0.1 beancontrol.com
 127.0.0.1 bedsberry.com
@@ -610,6 +609,7 @@
 127.0.0.1 frequentflesh.com
 127.0.0.1 friedone.com
 127.0.0.1 friendlycrayon.com
+127.0.0.1 friendlyfold.com
 127.0.0.1 frogator.com
 127.0.0.1 fronttoad.com
 127.0.0.1 frugalfiestas.com
@@ -861,7 +861,6 @@
 127.0.0.1 madlysuccessful.com
 127.0.0.1 magicaljoin.com
 127.0.0.1 magicminibox.com
-127.0.0.1 magnetairport.com
 127.0.0.1 magnificentarticle.com
 127.0.0.1 majesticwaterscape.com
 127.0.0.1 majesticwilderness.com
@@ -893,6 +892,7 @@
 127.0.0.1 mediatescarf.com
 127.0.0.1 mediavine.com
 127.0.0.1 mediumshort.com
+127.0.0.1 mellowbike.com
 127.0.0.1 mellowhush.com
 127.0.0.1 melodiouschorus.com
 127.0.0.1 melodiouscomposition.com
@@ -981,6 +981,7 @@
 127.0.0.1 notifyglass.com
 127.0.0.1 novaseekers.com
 127.0.0.1 nowaymail.com
+127.0.0.1 nudgeduck.com
 127.0.0.1 nullnorth.com
 127.0.0.1 numerousnest.com
 127.0.0.1 oafishchance.com
@@ -1026,6 +1027,7 @@
 127.0.0.1 parsimoniouspolice.com
 127.0.0.1 partplanes.com
 127.0.0.1 passivepolo.com
+127.0.0.1 pastepot.com
 127.0.0.1 pastoralroad.com
 127.0.0.1 pawsnug.com
 127.0.0.1 peacefullimit.com
@@ -1102,6 +1104,7 @@
 127.0.0.1 productsurfer.com
 127.0.0.1 profitrumour.com
 127.0.0.1 profusesupport.com
+127.0.0.1 promiseair.com
 127.0.0.1 proofconvert.com
 127.0.0.1 propertypotato.com
 127.0.0.1 propsynergy.com
@@ -1417,6 +1420,7 @@
 127.0.0.1 sportsnearby.com
 127.0.0.1 sportybrains.com
 127.0.0.1 spotlessstamp.com
+127.0.0.1 spottednoise.com
 127.0.0.1 springolive.com
 127.0.0.1 springsister.com
 127.0.0.1 springsnails.com
@@ -1533,6 +1537,7 @@
 127.0.0.1 synthesizespoon.com
 127.0.0.1 tackytrains.com
 127.0.0.1 tacojournal.com
+127.0.0.1 talltouch.com
 127.0.0.1 tangibleteam.com
 127.0.0.1 tangletrace.com
 127.0.0.1 tangyamount.com
@@ -1558,7 +1563,9 @@
 127.0.0.1 tenhourweek.com
 127.0.0.1 tennistie.com
 127.0.0.1 terriblethumb.com
+127.0.0.1 terrifictooth.com
 127.0.0.1 testadmiral.com
+127.0.0.1 testedtouch.com
 127.0.0.1 texturetrick.com
 127.0.0.1 thejavalane.com
 127.0.0.1 therapeuticcars.com
@@ -1570,7 +1577,6 @@
 127.0.0.1 thirdrespect.com
 127.0.0.1 thomastorch.com
 127.0.0.1 thoughtlessknot.com
-127.0.0.1 threechurch.com
 127.0.0.1 threetruck.com
 127.0.0.1 thrillasoft.com
 127.0.0.1 thrivecover.com
@@ -1734,7 +1740,6 @@
 127.0.0.1 worriedwine.com
 127.0.0.1 wrapstretch.com
 127.0.0.1 wretchedfloor.com
-127.0.0.1 writewealth.com
 127.0.0.1 wrongpotato.com
 127.0.0.1 wrongwound.com
 127.0.0.1 wtaccesscontrol.com
