@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: td2aMbQfxo6wg9Eh-S4ztw
-! Version: 202604200959
-! Last modified: 2026-04-20 09:59 UTC
+! Checksum: T2hVydktDUcSDyztypThUw
+! Version: 202604201932
+! Last modified: 2026-04-20 19:32 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -28,7 +28,6 @@
 127.0.0.1 35.201.96.133
 127.0.0.1 4jnzhl0d0.com
 127.0.0.1 82o9v830.com
-127.0.0.1 abilityscale.com
 127.0.0.1 abjectattempt.com
 127.0.0.1 aboardamusement.com
 127.0.0.1 aboardfork.com
@@ -137,7 +136,6 @@
 127.0.0.1 bandborder.com
 127.0.0.1 barbarousbase.com
 127.0.0.1 baseboosters.com
-127.0.0.1 basilfish.com
 127.0.0.1 basketballbelieve.com
 127.0.0.1 baskettexture.com
 127.0.0.1 battlebalance.com
@@ -866,7 +864,6 @@
 127.0.0.1 majesticwilderness.com
 127.0.0.1 makesimpact.com
 127.0.0.1 maliciousmusic.com
-127.0.0.1 managedpush.com
 127.0.0.1 manamoment.com
 127.0.0.1 mantrafox.com
 127.0.0.1 mapbasin.com
@@ -1597,7 +1594,6 @@
 127.0.0.1 tiresomethunder.com
 127.0.0.1 tofusquirrel.com
 127.0.0.1 toolcapital.com
-127.0.0.1 toomanyalts.com
 127.0.0.1 topcrazypress.com
 127.0.0.1 touristfuel.com
 127.0.0.1 toweringanswer.com
