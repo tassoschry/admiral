@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: 1Fd7-ldzr8shql2QJa-HQQ
-! Version: 202608170839
-! Last modified: 2026-08-17 08:39 UTC
+! Checksum: H25kEgE8HL1V-pb5K2Ybuw
+! Version: 202608240844
+! Last modified: 2026-08-24 08:44 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -57,6 +57,7 @@
 127.0.0.1 admiral.support
 127.0.0.1 admiral.website
 127.0.0.1 admiralcdn.com
+127.0.0.1 admiralexternal.com
 127.0.0.1 admlcdn.com
 127.0.0.1 adorableanger.com
 127.0.0.1 adorableattention.com
@@ -235,6 +236,7 @@
 127.0.0.1 captivatingillusion.com
 127.0.0.1 captivatingpanorama.com
 127.0.0.1 captivatingperformance.com
+127.0.0.1 carbongarden.net
 127.0.0.1 carefuldolls.com
 127.0.0.1 caringcast.com
 127.0.0.1 carloforward.com
@@ -349,6 +351,7 @@
 127.0.0.1 critictruck.com
 127.0.0.1 crookedcreature.com
 127.0.0.1 crowdedmass.com
+127.0.0.1 cruisetourist.com
 127.0.0.1 crunchcontrol.com
 127.0.0.1 crystalboulevard.com
 127.0.0.1 cubchannel.com
@@ -388,7 +391,6 @@
 127.0.0.1 decisivebase.com
 127.0.0.1 decisivedrawer.com
 127.0.0.1 decklibrary.com
-127.0.0.1 deeptack.com
 127.0.0.1 deerbeginner.com
 127.0.0.1 defeatedbadge.com
 127.0.0.1 defensevest.com
@@ -523,6 +525,7 @@
 127.0.0.1 fatcoil.com
 127.0.0.1 faucetfoot.com
 127.0.0.1 faultycanvas.com
+127.0.0.1 faxcoupons.com
 127.0.0.1 fearfulfish.com
 127.0.0.1 fearfulmint.com
 127.0.0.1 fearlessfaucet.com
@@ -668,6 +671,7 @@
 127.0.0.1 handsomelyhealth.com
 127.0.0.1 handsomelythumb.com
 127.0.0.1 handsomeyam.com
+127.0.0.1 handyfield.com
 127.0.0.1 handyfireman.com
 127.0.0.1 handyincrease.com
 127.0.0.1 haplesshydrant.com
@@ -680,9 +684,9 @@
 127.0.0.1 headydegree.com
 127.0.0.1 healflowers.com
 127.0.0.1 heartbreakingmind.com
-127.0.0.1 hearthorn.com
 127.0.0.1 heavydetail.com
 127.0.0.1 heavyplayground.com
+127.0.0.1 hellounbox.com
 127.0.0.1 helpcollar.com
 127.0.0.1 helpflame.com
 127.0.0.1 hfc195b.com
@@ -758,6 +762,7 @@
 127.0.0.1 justpickaname.com
 127.0.0.1 justwebcards.com
 127.0.0.1 keenquill.com
+127.0.0.1 kibbleandbytes.com
 127.0.0.1 kidpowers.com
 127.0.0.1 kindhush.com
 127.0.0.1 kitetuning.com
@@ -1194,12 +1199,12 @@
 127.0.0.1 scaredsnakes.com
 127.0.0.1 scaredsong.com
 127.0.0.1 scaredstomach.com
-127.0.0.1 scaredstory.com
 127.0.0.1 scarefowl.com
 127.0.0.1 scarfsmash.com
 127.0.0.1 scatteredheat.com
 127.0.0.1 scatteredstream.com
 127.0.0.1 scenicapparel.com
+127.0.0.1 scenicchicago.com
 127.0.0.1 scenicdrops.com
 127.0.0.1 scientificshirt.com
 127.0.0.1 scientificsneeze.com
@@ -1443,7 +1448,6 @@
 127.0.0.1 surfacesmedia.com
 127.0.0.1 swankysquare.com
 127.0.0.1 sweepsheep.com
-127.0.0.1 sweetslope.com
 127.0.0.1 swellstocking.com
 127.0.0.1 swimfreely.com
 127.0.0.1 swingslip.com
@@ -1517,7 +1521,6 @@
 127.0.0.1 tracecontent.com
 127.0.0.1 traderbyte.com
 127.0.0.1 tradetooth.com
-127.0.0.1 trafficviews.com
 127.0.0.1 tranquilcan.com
 127.0.0.1 tranquilplume.com
 127.0.0.1 tranquilveil.com
