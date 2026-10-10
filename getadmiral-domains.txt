@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: iNqY7I5u3pNz-PVDSpH7cg
-! Version: 202610080728
-! Last modified: 2026-10-08 07:28 UTC
+! Checksum: vLGzvLmmeFujHPCElsVjdA
+! Version: 202610100620
+! Last modified: 2026-10-10 06:20 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -83,6 +83,7 @@
 127.0.0.1 ambiguousincome.com
 127.0.0.1 ambrosialsummit.com
 127.0.0.1 amethystzenith.com
+127.0.0.1 amuckafternoon.com
 127.0.0.1 amusedbucket.com
 127.0.0.1 analyzecorona.com
 127.0.0.1 ancientact.com
@@ -168,17 +169,22 @@
 127.0.0.1 blueeyedblow.com
 127.0.0.1 bluevinebooks.com
 127.0.0.1 blushingbeast.com
+127.0.0.1 blushingboundary.com
 127.0.0.1 blushingbread.com
 127.0.0.1 boatcodeapp.com
 127.0.0.1 boatsvest.com
 127.0.0.1 boiledegglabs.com
 127.0.0.1 boilingbeetle.com
 127.0.0.1 boilingcredit.com
+127.0.0.1 boilingumbrella.com
 127.0.0.1 boldbars.com
 127.0.0.1 boomboomcloud.com
 127.0.0.1 boostbehavior.com
+127.0.0.1 boredborder.com
 127.0.0.1 boredcrown.com
 127.0.0.1 boringberry.com
+127.0.0.1 boringcoat.com
+127.0.0.1 bouncyfront.com
 127.0.0.1 bouncyproperty.com
 127.0.0.1 boundarybusiness.com
 127.0.0.1 boundlessargument.com
@@ -205,9 +211,12 @@
 127.0.0.1 brownboxgroup.com
 127.0.0.1 bruisebaseball.com
 127.0.0.1 brunchforher.com
+127.0.0.1 bubblebedroom.com
+127.0.0.1 bucketbean.com
 127.0.0.1 buildingknife.com
 127.0.0.1 bulbbait.com
 127.0.0.1 bumpermash.com
+127.0.0.1 bumpydevelopment.com
 127.0.0.1 bungeesleeves.com
 127.0.0.1 burgersalt.com
 127.0.0.1 burnbubble.com
@@ -288,6 +297,7 @@
 127.0.0.1 clarifyverse.com
 127.0.0.1 cleanhaircut.com
 127.0.0.1 clearcomb.com
+127.0.0.1 clickersdigest.com
 127.0.0.1 cloisteredcurve.com
 127.0.0.1 cloudhustles.com
 127.0.0.1 cloudjumbo.com
@@ -299,6 +309,7 @@
 127.0.0.1 coldbalance.com
 127.0.0.1 coldcallpro.com
 127.0.0.1 coloradoserves.com
+127.0.0.1 colorandnoise.com
 127.0.0.1 colossalclouds.com
 127.0.0.1 colossalcoat.com
 127.0.0.1 colossalcry.com
@@ -332,6 +343,7 @@
 127.0.0.1 copyrightaccesscontrols.com
 127.0.0.1 copyvibes.com
 127.0.0.1 coralreverie.com
+127.0.0.1 coralwatches.com
 127.0.0.1 corgibeachday.com
 127.0.0.1 cosmicsculptor.com
 127.0.0.1 cosmosjackson.com
@@ -378,7 +390,6 @@
 127.0.0.1 cutecalculator.com
 127.0.0.1 cutechin.com
 127.0.0.1 cyclopsdial.com
-127.0.0.1 dailydivision.com
 127.0.0.1 damagedadvice.com
 127.0.0.1 damageddistance.com
 127.0.0.1 damdoor.com
@@ -462,6 +473,7 @@
 127.0.0.1 elusivecascade.com
 127.0.0.1 embellishedmeadow.com
 127.0.0.1 emberwhisper.com
+127.0.0.1 eminentbubble.com
 127.0.0.1 eminentend.com
 127.0.0.1 emptyescort.com
 127.0.0.1 enchantedskyline.com
@@ -583,6 +595,7 @@
 127.0.0.1 framebanana.com
 127.0.0.1 franticroof.com
 127.0.0.1 freezingbuilding.com
+127.0.0.1 frequentflesh.com
 127.0.0.1 friedone.com
 127.0.0.1 friendlycrayon.com
 127.0.0.1 friendlyfold.com
@@ -616,6 +629,7 @@
 127.0.0.1 ghostgenie.com
 127.0.0.1 ghostwoodalbum.com
 127.0.0.1 gianthypes.com
+127.0.0.1 giantsvessel.com
 127.0.0.1 giddycoat.com
 127.0.0.1 gigkarma.com
 127.0.0.1 giraffepiano.com
@@ -638,6 +652,7 @@
 127.0.0.1 goodbark.com
 127.0.0.1 gorgeousedge.com
 127.0.0.1 gossamerwing.com
+127.0.0.1 gracefulmilk.com
 127.0.0.1 grainmass.com
 127.0.0.1 grandfatherguitar.com
 127.0.0.1 granlite.com
@@ -674,6 +689,7 @@
 127.0.0.1 handsomeyam.com
 127.0.0.1 handyfield.com
 127.0.0.1 handyfireman.com
+127.0.0.1 handyincrease.com
 127.0.0.1 haplesshydrant.com
 127.0.0.1 haplessland.com
 127.0.0.1 happysponge.com
@@ -706,6 +722,7 @@
 127.0.0.1 hospitablehat.com
 127.0.0.1 howdyinbox.com
 127.0.0.1 humdrumhobbies.com
+127.0.0.1 humdrumtouch.com
 127.0.0.1 hurtgrape.com
 127.0.0.1 hustlercoach.com
 127.0.0.1 hyperlegend.com
@@ -843,7 +860,6 @@
 127.0.0.1 mediatescarf.com
 127.0.0.1 mediavine.com
 127.0.0.1 mediumshort.com
-127.0.0.1 mellowbike.com
 127.0.0.1 mellowhush.com
 127.0.0.1 melodiouschorus.com
 127.0.0.1 melodiouscomposition.com
@@ -1181,6 +1197,7 @@
 127.0.0.1 sayinnovation.com
 127.0.0.1 scarceshock.com
 127.0.0.1 scarcesign.com
+127.0.0.1 scarcestructure.com
 127.0.0.1 scarcesurprise.com
 127.0.0.1 scaredcomfort.com
 127.0.0.1 scaredsidewalk.com
@@ -1260,6 +1277,7 @@
 127.0.0.1 shydinosaurs.com
 127.0.0.1 shyseed.com
 127.0.0.1 sicksmash.com
+127.0.0.1 sierrakermit.com
 127.0.0.1 signaturepod.com
 127.0.0.1 silentcredit.com
 127.0.0.1 silentjackal.com
@@ -1355,6 +1373,7 @@
 127.0.0.1 spurioussquirrel.com
 127.0.0.1 spuriousstranger.com
 127.0.0.1 spysubstance.com
+127.0.0.1 squalidscrew.com
 127.0.0.1 squarecamel.com
 127.0.0.1 squeakzinc.com
 127.0.0.1 squealingturn.com
@@ -1364,6 +1383,7 @@
 127.0.0.1 stakingsmile.com
 127.0.0.1 staleshow.com
 127.0.0.1 stalesummer.com
+127.0.0.1 stampknot.com
 127.0.0.1 starkscale.com
 127.0.0.1 startercost.com
 127.0.0.1 statshunt.com
@@ -1397,6 +1417,7 @@
 127.0.0.1 stonetumble.com
 127.0.0.1 stopstomach.com
 127.0.0.1 storescissors.com
+127.0.0.1 storeslope.com
 127.0.0.1 straightnest.com
 127.0.0.1 straindrinks.com
 127.0.0.1 strangeclocks.com
@@ -1470,7 +1491,6 @@
 127.0.0.1 tenhourweek.com
 127.0.0.1 tennistie.com
 127.0.0.1 terriblethumb.com
-127.0.0.1 terrifictooth.com
 127.0.0.1 testadmiral.com
 127.0.0.1 texturetrick.com
 127.0.0.1 thejavalane.com
