@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: vLGzvLmmeFujHPCElsVjdA
-! Version: 202610100620
-! Last modified: 2026-10-10 06:20 UTC
+! Checksum: 6r9-EMgd_OSh8OfzlcD21w
+! Version: 202610130012
+! Last modified: 2026-10-13 00:12 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -139,6 +139,7 @@
 127.0.0.1 baskettexture.com
 127.0.0.1 battlebalance.com
 127.0.0.1 bawdybalance.com
+127.0.0.1 beamkite.com
 127.0.0.1 beamvolcano.com
 127.0.0.1 beancontrol.com
 127.0.0.1 bedsberry.com
@@ -169,22 +170,17 @@
 127.0.0.1 blueeyedblow.com
 127.0.0.1 bluevinebooks.com
 127.0.0.1 blushingbeast.com
-127.0.0.1 blushingboundary.com
 127.0.0.1 blushingbread.com
 127.0.0.1 boatcodeapp.com
 127.0.0.1 boatsvest.com
 127.0.0.1 boiledegglabs.com
 127.0.0.1 boilingbeetle.com
 127.0.0.1 boilingcredit.com
-127.0.0.1 boilingumbrella.com
 127.0.0.1 boldbars.com
 127.0.0.1 boomboomcloud.com
 127.0.0.1 boostbehavior.com
-127.0.0.1 boredborder.com
 127.0.0.1 boredcrown.com
 127.0.0.1 boringberry.com
-127.0.0.1 boringcoat.com
-127.0.0.1 bouncyfront.com
 127.0.0.1 bouncyproperty.com
 127.0.0.1 boundarybusiness.com
 127.0.0.1 boundlessargument.com
@@ -211,12 +207,9 @@
 127.0.0.1 brownboxgroup.com
 127.0.0.1 bruisebaseball.com
 127.0.0.1 brunchforher.com
-127.0.0.1 bubblebedroom.com
-127.0.0.1 bucketbean.com
 127.0.0.1 buildingknife.com
 127.0.0.1 bulbbait.com
 127.0.0.1 bumpermash.com
-127.0.0.1 bumpydevelopment.com
 127.0.0.1 bungeesleeves.com
 127.0.0.1 burgersalt.com
 127.0.0.1 burnbubble.com
@@ -254,7 +247,6 @@
 127.0.0.1 carvecakes.com
 127.0.0.1 casualphysics.com
 127.0.0.1 catalogcake.com
-127.0.0.1 catalogdiscovery.com
 127.0.0.1 catschickens.com
 127.0.0.1 cattlecommittee.com
 127.0.0.1 causecherry.com
@@ -320,6 +312,7 @@
 127.0.0.1 combcompetition.com
 127.0.0.1 cometquote.com
 127.0.0.1 comfortablecheese.com
+127.0.0.1 commonalmanac.com
 127.0.0.1 comparereaction.com
 127.0.0.1 condemnedcomb.com
 127.0.0.1 conditionchange.com
@@ -365,6 +358,7 @@
 127.0.0.1 crimsonmeadow.com
 127.0.0.1 critictruck.com
 127.0.0.1 crookedcreature.com
+127.0.0.1 crossseasent.com
 127.0.0.1 crowdedmass.com
 127.0.0.1 cruisetourist.com
 127.0.0.1 crunchcontrol.com
@@ -387,9 +381,11 @@
 127.0.0.1 curvedhoney.com
 127.0.0.1 curvycry.com
 127.0.0.1 cushiondrum.com
+127.0.0.1 cutcurrent.com
 127.0.0.1 cutecalculator.com
 127.0.0.1 cutechin.com
 127.0.0.1 cyclopsdial.com
+127.0.0.1 dailydesigned.com
 127.0.0.1 damagedadvice.com
 127.0.0.1 damageddistance.com
 127.0.0.1 damdoor.com
@@ -398,9 +394,11 @@
 127.0.0.1 dandydune.com
 127.0.0.1 dandyglow.com
 127.0.0.1 dapperdiscussion.com
+127.0.0.1 darngavel.com
 127.0.0.1 dashingdrop.com
 127.0.0.1 datastoried.com
 127.0.0.1 dazzlingbook.com
+127.0.0.1 dblendcoatings.com
 127.0.0.1 debonairdust.com
 127.0.0.1 debonairtree.com
 127.0.0.1 decidedrum.com
@@ -428,6 +426,7 @@
 127.0.0.1 detourgame.com
 127.0.0.1 devilishdinner.com
 127.0.0.1 dewdroplagoon.com
+127.0.0.1 dharmabrats.com
 127.0.0.1 difficultfog.com
 127.0.0.1 digestiondrawer.com
 127.0.0.1 digithalo.com
@@ -720,7 +719,6 @@
 127.0.0.1 honorableland.com
 127.0.0.1 hospitablehall.com
 127.0.0.1 hospitablehat.com
-127.0.0.1 howdyinbox.com
 127.0.0.1 humdrumhobbies.com
 127.0.0.1 humdrumtouch.com
 127.0.0.1 hurtgrape.com
@@ -1383,7 +1381,6 @@
 127.0.0.1 stakingsmile.com
 127.0.0.1 staleshow.com
 127.0.0.1 stalesummer.com
-127.0.0.1 stampknot.com
 127.0.0.1 starkscale.com
 127.0.0.1 startercost.com
 127.0.0.1 statshunt.com
@@ -1496,6 +1493,7 @@
 127.0.0.1 thejavalane.com
 127.0.0.1 therapeuticcars.com
 127.0.0.1 thesolartime.com
+127.0.0.1 thickticket.com
 127.0.0.1 thingsafterthought.com
 127.0.0.1 thingstaste.com
 127.0.0.1 thinkitten.com
@@ -1663,6 +1661,7 @@
 127.0.0.1 xovq5nemr.com
 127.0.0.1 yieldingwoman.com
 127.0.0.1 yourlifedream.com
+127.0.0.1 zealousfield.com
 127.0.0.1 zephyrcatalyst.com
 127.0.0.1 zephyrlabyrinth.com
 127.0.0.1 zeppelinradio.com
