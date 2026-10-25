@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: qgZTnjOMCE3WxYLsI4jcjQ
-! Version: 202610191516
-! Last modified: 2026-10-19 15:16 UTC
+! Checksum: VLek9Dk0QRPzzHq5W4V9Ug
+! Version: 202610230205
+! Last modified: 2026-10-23 02:05 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -57,6 +57,7 @@
 127.0.0.1 admiral.support
 127.0.0.1 admiral.website
 127.0.0.1 admiralcdn.com
+127.0.0.1 admiralexternal.com
 127.0.0.1 admlcdn.com
 127.0.0.1 adorableanger.com
 127.0.0.1 adorableattention.com
@@ -138,6 +139,7 @@
 127.0.0.1 baskettexture.com
 127.0.0.1 battlebalance.com
 127.0.0.1 bawdybalance.com
+127.0.0.1 beamkite.com
 127.0.0.1 beamvolcano.com
 127.0.0.1 beancontrol.com
 127.0.0.1 bedsberry.com
@@ -345,6 +347,7 @@
 127.0.0.1 cozydusk.com
 127.0.0.1 cozyhillside.com
 127.0.0.1 cozytryst.com
+127.0.0.1 crabbychin.com
 127.0.0.1 crackedsafe.com
 127.0.0.1 crafthenry.com
 127.0.0.1 crashchance.com
@@ -358,9 +361,7 @@
 127.0.0.1 crookedcreature.com
 127.0.0.1 crossseasent.com
 127.0.0.1 crowdedmass.com
-127.0.0.1 cruisetourist.com
 127.0.0.1 crunchcontrol.com
-127.0.0.1 cryptvalue.com
 127.0.0.1 crystalboulevard.com
 127.0.0.1 cubchannel.com
 127.0.0.1 cubepins.com
@@ -384,6 +385,7 @@
 127.0.0.1 cutechin.com
 127.0.0.1 cyclopsdial.com
 127.0.0.1 dailydesigned.com
+127.0.0.1 dailydivision.com
 127.0.0.1 damagedadvice.com
 127.0.0.1 damageddistance.com
 127.0.0.1 damdoor.com
@@ -773,7 +775,6 @@
 127.0.0.1 justpickaname.com
 127.0.0.1 justwebcards.com
 127.0.0.1 keenquill.com
-127.0.0.1 kibbleandbytes.com
 127.0.0.1 kidpowers.com
 127.0.0.1 kindhush.com
 127.0.0.1 kitetuning.com
@@ -1335,7 +1336,6 @@
 127.0.0.1 soresidewalk.com
 127.0.0.1 soretrain.com
 127.0.0.1 sortstructure.com
-127.0.0.1 soulclicking.com
 127.0.0.1 soundstocking.com
 127.0.0.1 sowlettuce.com
 127.0.0.1 spaceaffinity.com
@@ -1370,6 +1370,7 @@
 127.0.0.1 spuriousair.com
 127.0.0.1 spurioussquirrel.com
 127.0.0.1 spuriousstranger.com
+127.0.0.1 spyrep.com
 127.0.0.1 spysubstance.com
 127.0.0.1 squalidscrew.com
 127.0.0.1 squarecamel.com
@@ -1477,6 +1478,7 @@
 127.0.0.1 tearfulglass.com
 127.0.0.1 techconverter.com
 127.0.0.1 tediousbear.com
+127.0.0.1 tediousticket.com
 127.0.0.1 tedioustooth.com
 127.0.0.1 teenytinycellar.com
 127.0.0.1 teenytinyshirt.com
@@ -1506,7 +1508,6 @@
 127.0.0.1 thrillasoft.com
 127.0.0.1 thrivecover.com
 127.0.0.1 thrivingmarketplace.com
-127.0.0.1 throattrees.com
 127.0.0.1 ticketaunt.com
 127.0.0.1 ticketjolly.com
 127.0.0.1 ticklesign.com
@@ -1570,12 +1571,15 @@
 127.0.0.1 unknowncrate.com
 127.0.0.1 unknownidea.com
 127.0.0.1 unloadyourself.com
+127.0.0.1 unnaturalcaption.com
 127.0.0.1 untidyrice.com
 127.0.0.1 unusualtitle.com
 127.0.0.1 unwieldyhealth.com
 127.0.0.1 unwieldyimpulse.com
 127.0.0.1 unwieldyplastic.com
+127.0.0.1 unwrittenspot.com
 127.0.0.1 uppitytime.com
+127.0.0.1 usedexample.com
 127.0.0.1 uselesslumber.com
 127.0.0.1 userballot.com
 127.0.0.1 validmemo.com
@@ -1624,7 +1628,6 @@
 127.0.0.1 wayjoyfarm.com
 127.0.0.1 websitesdude.com
 127.0.0.1 wellgroomedapparel.com
-127.0.0.1 wellgroomedhydrant.com
 127.0.0.1 whimsicalcanyon.com
 127.0.0.1 whimsicalgrove.com
 127.0.0.1 whimsicalvantage.com
@@ -1671,6 +1674,7 @@
 127.0.0.1 zestywire.com
 127.0.0.1 zigzagcabin.com
 127.0.0.1 zipperxray.com
+127.0.0.1 zippywind.com
 127.0.0.1 zipthelake.com
 127.0.0.1 zlp6s.pw
 127.0.0.1 zonewedgeshaft.com
