@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: 2S03eHU9m3ZfIPPB0_q11w
-! Version: 202610262108
-! Last modified: 2026-10-26 21:08 UTC
+! Checksum: 9-H0MMM8n_CyGvgA7NqPhw
+! Version: 202611030758
+! Last modified: 2026-11-03 07:58 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -57,6 +57,7 @@
 127.0.0.1 admiral.support
 127.0.0.1 admiral.website
 127.0.0.1 admiralcdn.com
+127.0.0.1 admiralexternal.com
 127.0.0.1 admlcdn.com
 127.0.0.1 adorableanger.com
 127.0.0.1 adorableattention.com
@@ -138,7 +139,6 @@
 127.0.0.1 baskettexture.com
 127.0.0.1 battlebalance.com
 127.0.0.1 bawdybalance.com
-127.0.0.1 beamkite.com
 127.0.0.1 beamvolcano.com
 127.0.0.1 beancontrol.com
 127.0.0.1 bedsberry.com
@@ -189,6 +189,7 @@
 127.0.0.1 branchborder.com
 127.0.0.1 brandsfive.com
 127.0.0.1 brandybison.com
+127.0.0.1 brassrule.com
 127.0.0.1 bravebone.com
 127.0.0.1 bravecalculator.com
 127.0.0.1 breadbalance.com
@@ -208,7 +209,6 @@
 127.0.0.1 brunchforher.com
 127.0.0.1 buildingknife.com
 127.0.0.1 bulbbait.com
-127.0.0.1 bumpermash.com
 127.0.0.1 bungeesleeves.com
 127.0.0.1 burgersalt.com
 127.0.0.1 burnbubble.com
@@ -362,7 +362,6 @@
 127.0.0.1 crowdedmass.com
 127.0.0.1 cruisetourist.com
 127.0.0.1 crunchcontrol.com
-127.0.0.1 cryptvalue.com
 127.0.0.1 crystalboulevard.com
 127.0.0.1 cubchannel.com
 127.0.0.1 cubepins.com
@@ -455,12 +454,14 @@
 127.0.0.1 drydrum.com
 127.0.0.1 dustydime.com
 127.0.0.1 dustyhammer.com
+127.0.0.1 dyecloud.com
 127.0.0.1 eagerflame.com
 127.0.0.1 eagerknight.com
 127.0.0.1 earnbaht.com
 127.0.0.1 earthups.com
 127.0.0.1 eastpalms.com
 127.0.0.1 eatablesquare.com
+127.0.0.1 echochief.com
 127.0.0.1 echoinghaven.com
 127.0.0.1 echotop.com
 127.0.0.1 effervescentcoral.com
@@ -516,7 +517,6 @@
 127.0.0.1 extralocker.com
 127.0.0.1 extramonies.com
 127.0.0.1 exuberantedge.com
-127.0.0.1 exultantdrop.com
 127.0.0.1 fabcharting.com
 127.0.0.1 fabledsoul.com
 127.0.0.1 facilitatebreakfast.com
@@ -524,7 +524,6 @@
 127.0.0.1 fairfeeling.com
 127.0.0.1 fairiesbranch.com
 127.0.0.1 fairygaze.com
-127.0.0.1 faithrowold.com
 127.0.0.1 fallaciousfifth.com
 127.0.0.1 falseframe.com
 127.0.0.1 falsesight.com
@@ -535,6 +534,7 @@
 127.0.0.1 farethief.com
 127.0.0.1 farmergoldfish.com
 127.0.0.1 farshake.com
+127.0.0.1 farsnails.com
 127.0.0.1 fastenfather.com
 127.0.0.1 fasterfineart.com
 127.0.0.1 fasterjson.com
@@ -549,7 +549,6 @@
 127.0.0.1 fearlesstramp.com
 127.0.0.1 featherstage.com
 127.0.0.1 feeblestamp.com
-127.0.0.1 feedten.com
 127.0.0.1 feignedfaucet.com
 127.0.0.1 fewjuice.com
 127.0.0.1 fewkittens.com
@@ -581,7 +580,6 @@
 127.0.0.1 floweryfact.com
 127.0.0.1 floweryflavor.com
 127.0.0.1 floweryoperation.com
-127.0.0.1 flushingbeast.com
 127.0.0.1 flutteringfireman.com
 127.0.0.1 foamyfood.com
 127.0.0.1 followborder.com
@@ -596,13 +594,11 @@
 127.0.0.1 frailfruit.com
 127.0.0.1 framebanana.com
 127.0.0.1 franticroof.com
-127.0.0.1 freakyglass.com
 127.0.0.1 freezingbuilding.com
 127.0.0.1 frequentflesh.com
 127.0.0.1 friedone.com
 127.0.0.1 friendlycrayon.com
 127.0.0.1 friendlyfold.com
-127.0.0.1 friendwool.com
 127.0.0.1 frogator.com
 127.0.0.1 fronttoad.com
 127.0.0.1 frugalfiestas.com
@@ -624,7 +620,6 @@
 127.0.0.1 gardenovens.com
 127.0.0.1 gaudyairplane.com
 127.0.0.1 geekactive.com
-127.0.0.1 geekbackyard.com
 127.0.0.1 generalprose.com
 127.0.0.1 generateoffice.com
 127.0.0.1 getadmiral.com
@@ -722,6 +717,7 @@
 127.0.0.1 honeybulb.com
 127.0.0.1 honorablehydrant.com
 127.0.0.1 honorableland.com
+127.0.0.1 hookconference.com
 127.0.0.1 hospitablehall.com
 127.0.0.1 hospitablehat.com
 127.0.0.1 humdrumhobbies.com
@@ -839,6 +835,7 @@
 127.0.0.1 magnificentarticle.com
 127.0.0.1 majesticwaterscape.com
 127.0.0.1 majesticwilderness.com
+127.0.0.1 makesimpact.com
 127.0.0.1 maliciousmusic.com
 127.0.0.1 manamoment.com
 127.0.0.1 mapbasin.com
@@ -895,7 +892,6 @@
 127.0.0.1 modularmental.com
 127.0.0.1 monacobeatles.com
 127.0.0.1 monstermemes.com
-127.0.0.1 monthlyhat.com
 127.0.0.1 mooncrustpizza.com
 127.0.0.1 moorshoes.com
 127.0.0.1 morefriendly.com
@@ -1069,7 +1065,6 @@
 127.0.0.1 promiseair.com
 127.0.0.1 proofconvert.com
 127.0.0.1 propertypotato.com
-127.0.0.1 propsynergy.com
 127.0.0.1 protestcopy.com
 127.0.0.1 psychedelicarithmetic.com
 127.0.0.1 publicsofa.com
@@ -1137,7 +1132,6 @@
 127.0.0.1 rehabilitatereason.com
 127.0.0.1 relationrest.com
 127.0.0.1 releasepath.com
-127.0.0.1 reloadphoto.com
 127.0.0.1 rememberdiscussion.com
 127.0.0.1 remixslot.com
 127.0.0.1 rentinfinity.com
@@ -1238,7 +1232,6 @@
 127.0.0.1 secretturtle.com
 127.0.0.1 seedscissors.com
 127.0.0.1 seenvault.com
-127.0.0.1 seespice.com
 127.0.0.1 selectivesummer.com
 127.0.0.1 selfishsea.com
 127.0.0.1 selfishsnake.com
@@ -1339,7 +1332,6 @@
 127.0.0.1 soresidewalk.com
 127.0.0.1 soretrain.com
 127.0.0.1 sortstructure.com
-127.0.0.1 soulclicking.com
 127.0.0.1 soundstocking.com
 127.0.0.1 sowlettuce.com
 127.0.0.1 spaceaffinity.com
@@ -1354,6 +1346,7 @@
 127.0.0.1 spicesonwheels.com
 127.0.0.1 spicevikings.com
 127.0.0.1 spiffymachine.com
+127.0.0.1 spikyslave.com
 127.0.0.1 spirebaboon.com
 127.0.0.1 spitefulriver.com
 127.0.0.1 spongesalt.com
@@ -1365,6 +1358,7 @@
 127.0.0.1 sportsnearby.com
 127.0.0.1 sportybrains.com
 127.0.0.1 spotlessstamp.com
+127.0.0.1 spotstring.com
 127.0.0.1 spottednoise.com
 127.0.0.1 springolive.com
 127.0.0.1 springsister.com
@@ -1388,7 +1382,6 @@
 127.0.0.1 stalesummer.com
 127.0.0.1 starkscale.com
 127.0.0.1 startercost.com
-127.0.0.1 startingcars.com
 127.0.0.1 statshunt.com
 127.0.0.1 statuesqueship.com
 127.0.0.1 statusinside.com
@@ -1402,12 +1395,9 @@
 127.0.0.1 steepsister.com
 127.0.0.1 steepsquirrel.com
 127.0.0.1 stepcattle.com
-127.0.0.1 stepplane.com
 127.0.0.1 stepwisevideo.com
 127.0.0.1 stereoproxy.com
-127.0.0.1 stereotypedclub.com
 127.0.0.1 stereotypedsugar.com
-127.0.0.1 stewedge.com
 127.0.0.1 stickysheet.com
 127.0.0.1 stiffgame.com
 127.0.0.1 stiffstem.com
@@ -1419,6 +1409,7 @@
 127.0.0.1 stockerator.com
 127.0.0.1 stockingsleet.com
 127.0.0.1 stockingsneeze.com
+127.0.0.1 stocktheme.com
 127.0.0.1 stomachscience.com
 127.0.0.1 stonetumble.com
 127.0.0.1 stopstomach.com
@@ -1496,10 +1487,8 @@
 127.0.0.1 tenhourweek.com
 127.0.0.1 tennistie.com
 127.0.0.1 terriblethumb.com
-127.0.0.1 terrifictooth.com
 127.0.0.1 testadmiral.com
 127.0.0.1 texturetrick.com
-127.0.0.1 thejavalane.com
 127.0.0.1 therapeuticcars.com
 127.0.0.1 thesolartime.com
 127.0.0.1 thickticket.com
@@ -1529,7 +1518,6 @@
 127.0.0.1 tiresomethunder.com
 127.0.0.1 tofusquirrel.com
 127.0.0.1 toolcapital.com
-127.0.0.1 topcrazypress.com
 127.0.0.1 toweringanswer.com
 127.0.0.1 toysbasics.com
 127.0.0.1 toytakeover.com
