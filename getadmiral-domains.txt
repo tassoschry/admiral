@@ -1,7 +1,7 @@
 ! Title: GetAdmiral Domains Filter List
-! Checksum: gOf6CGwZj0Hgc3KH-Nr0yA
-! Version: 202611091814
-! Last modified: 2026-11-09 18:14 UTC
+! Checksum: _DodHHyEjCJXBSUI5AGj8w
+! Version: 202611131742
+! Last modified: 2026-11-13 17:42 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://laniksj.github.io/ubo-filters
 ! License: https://opensource.org/licenses/MIT
@@ -138,6 +138,7 @@
 127.0.0.1 baskettexture.com
 127.0.0.1 battlebalance.com
 127.0.0.1 bawdybalance.com
+127.0.0.1 beamkite.com
 127.0.0.1 beamvolcano.com
 127.0.0.1 beancontrol.com
 127.0.0.1 bedsberry.com
@@ -244,7 +245,6 @@
 127.0.0.1 carvecakes.com
 127.0.0.1 casualphysics.com
 127.0.0.1 catalogcake.com
-127.0.0.1 catalogdiscovery.com
 127.0.0.1 catschickens.com
 127.0.0.1 cattlecommittee.com
 127.0.0.1 causecherry.com
@@ -359,7 +359,9 @@
 127.0.0.1 crookedcreature.com
 127.0.0.1 crossseasent.com
 127.0.0.1 crowdedmass.com
+127.0.0.1 cruisetourist.com
 127.0.0.1 crunchcontrol.com
+127.0.0.1 cryptvalue.com
 127.0.0.1 crystalboulevard.com
 127.0.0.1 cubchannel.com
 127.0.0.1 cubepins.com
@@ -771,6 +773,7 @@
 127.0.0.1 justpickaname.com
 127.0.0.1 justwebcards.com
 127.0.0.1 keenquill.com
+127.0.0.1 kibbleandbytes.com
 127.0.0.1 kidpowers.com
 127.0.0.1 kindhush.com
 127.0.0.1 kitetuning.com
@@ -856,7 +859,6 @@
 127.0.0.1 mediatescarf.com
 127.0.0.1 mediavine.com
 127.0.0.1 mediumshort.com
-127.0.0.1 mellowbike.com
 127.0.0.1 mellowhush.com
 127.0.0.1 melodiouschorus.com
 127.0.0.1 melodiouscomposition.com
@@ -881,7 +883,6 @@
 127.0.0.1 mimosamajor.com
 127.0.0.1 mindfulgem.com
 127.0.0.1 minorcattle.com
-127.0.0.1 minormeeting.com
 127.0.0.1 minuteburst.com
 127.0.0.1 miscreantmoon.com
 127.0.0.1 mistyhorizon.com
@@ -958,7 +959,6 @@
 127.0.0.1 onlywoofs.com
 127.0.0.1 opalquill.com
 127.0.0.1 operationchicken.com
-127.0.0.1 operationkettle.com
 127.0.0.1 operationnail.com
 127.0.0.1 optimallimit.com
 127.0.0.1 opulentsylvan.com
@@ -1664,6 +1664,7 @@
 127.0.0.1 zestywire.com
 127.0.0.1 zigzagcabin.com
 127.0.0.1 zipperxray.com
+127.0.0.1 zippywind.com
 127.0.0.1 zipthelake.com
 127.0.0.1 zlp6s.pw
 127.0.0.1 zonewedgeshaft.com
